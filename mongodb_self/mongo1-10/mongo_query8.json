@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "-3.228"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "-1.333"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "5.123"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "7.95"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "9.351"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "6.765"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "2.887"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "14.444"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "4.851"
+    }
+  },
+  {
+    "city": "Arhus",
+    "AverageTemperature": {
+      "avg": "13.226"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+Personally I believe music is very therapeutic, however I do not believe a specific genre will speak to any dementia patient. I also don't believe that every single patient will respond to music. That being said, if you manage to find a person who used to love music and can pinpoint what 'speaks' to them, the results can be astounding!
+
+I take care of my grandmother. She is 92 and has dementia with Lewy Bodies. Sadly gram can have some aggressive tendencies. We have used music to try to redirect aggressive behavior.
+
+Gram loved music, specifically piano, and Latin guitar. We used music to redirect behavior. Sometimes it worked, sometimes it didn't. This music was what we used when she was a bit more high functioning.
+
+Now I don't especially call it music, but meditative soundtracks seems to work very very well for gram these days. Think of it as a step above white noise. Gram is pretty low functioning these days and calming, meditative spa-like 'music'/noise seems to have a major calming affect on her. It's soothing tones, rain noises, soft wind chimes, etc. 
+
+Honestly I think this is a great subject to explore, but I also think it is surprisingly complicated because what works for one dementia patient will never work for all.  
+
+That being said, here is a very uplifting video about [music and dementia](https://youtu.be/fyZQf0p73QM). 
+
+FYI, my grandmother never had a reaction like this to music. I wish it was as easy as hitting 'play' on an IPod. I have this theory about long established neuro pathways and that dementia destroys the main route to memories, but old memories may still be there, we just need to find an alternate way to get to that memory. Kind of like a highway is closed and you take a ton of surface streets to get to the same destination. Music may be that surface Street path for some patients. 
+
+It's a random theory and I am not a scientists. Just an idea I've been chewing on for a while. 
+I help take care of my Grams during the week; I'm not exactly sure what type Dementia she has. It's very generic & not the kind that precedes Alzheimers. Any how she always loved music & knew all the words to just about any 50's song you can think of. Well during car rides she would become agitated, so I started up a Pandora station of 50's tunes especially for her. Sometimes it really soothes her the memories from her younger years are her strongest & she can sing along. Other times when she is having a rough day it just irritates her she will say things like "I can't believe they changed the words to that song!" when she can't recall the words. So I just try to read her current mood & adjust accordingly. As always no judgement, no correcting, just love & acceptance. 
+My mum was in bits this morning. I sung her  a few songs and she was laughing. Music is Magic.
+
+I'm going to sing to her every morning from now on.
+Heya! I'll just copy what I posted on the topic a while ago in another thread. Best of luck for your report, and it's really a superinteresting field of inquiry! :)
+_____
+I have had so many positive experiences with music for my 90 year old grandma! She can't remember anything for half a minute, but she still remembers the melodies (and sometimes even words) to certain songs from her youth. When those songs play, she often hums / sings along and is generally happy, peaceful, and distracted, focused on the music. Her joy is even greater when I sing along with her, it makes her laugh so happily. And awesomely enough, I can even go away for a few minutes to fix something without her worrying or following me as she usually would, I just hear her humming happily from the other room.
+
+We built her a "music button" a few months ago so she can at least sometimes listen to music even when we are not there: We attached a light switch to the table, wrote "MUSIC" on it and "ON" and "OFF" on the respective sides, so that when she comes into her kitchen and inspects the button, she sometimes manages to turn on music by herself for herself. Pic: https://www.dropbox.com/s/kmn5fv81593h06d/20151020_161132.jpg
+
+We built the button by buying a simple bulky on-off light switch and hooking it to a raspberry pi, a cheap tiny computer that you can easily program to do what you want when the electricity is turned on. We filled it with 20-30 songs we know she recognises and likes and those just start playing via the connected audio boxes whenever she presses the button. Total cost around 100€ including cheap audio boxes.
+
+Finding songs she recognises was also relatively easy: I digitalised old cds she had lying around, searched online for songs from old cassettes, and just generally played a lot of oldie and classical stuff from her youth times from youtube. If she didn't recognise a song she just didn't really react at all and we talked about the same things as always, if she did recognise them she just sort of lit up and sometimes started humming or asking what that song was called while it played.
+Your music switch and box is pretty epic!! 
+Thank you, I greatly appreciate the appreciation! :)

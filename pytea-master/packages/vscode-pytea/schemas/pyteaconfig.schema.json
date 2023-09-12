@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "Pytea Configuration Schema",
+  "properties": {
+    "configPath": {
+      "$id": "#/properties/configPath",
+      "type": "string",
+      "title": "Absolute path to pyteaconfig.json. It may be overidden by VSCode settings",
+      "pattern": "^(.*)$"
+    },
+    "pyteaLibPath": {
+      "$id": "#/properties/pyteaLibPath",
+      "type": "string",
+      "title": "Path to Pytea implementation of Python builtins and libraries",
+      "pattern": "^(.*)$"
+    },
+    "entryPath": {
+      "$id": "#/properties/entryPath",
+      "type": "string",
+      "title": "Python entry point. Absolute or relative to configPath",
+      "pattern": "^(.*)$"
+    },
+    "pythonCmdArgs": {
+      "$id": "#/properties/pythonCmdArgs",
+      "type": "object",
+      "title": "Python command line arguments. Injected to Python argparse methods"
+    },
+    "pythonSubcommand": {
+      "$id": "#/properties/pythonSubcommand",
+      "type": "string",
+      "title": "'dest' value of argparse.add_subparsers",
+      "pattern": "^(.*)$"
+    },
+    "logLevel": {
+      "$id": "#/properties/logLevel",
+      "type": "string",
+      "enum": [
+        "none",
+        "result-only",
+        "reduced",
+        "full"
+      ],
+      "title": "Severity of analysis result",
+      "default": "result-only"
+    },
+    "immediateConstraintCheck": {
+      "$id": "#/properties/immediateConstraintCheck",
+      "type": "boolean",
+      "title": "Discard trivial constraints",
+      "default": true
+    },
+    "ignoreAssert": {
+      "$id": "#/properties/ignoreAssert",
+      "type": "boolean",
+      "title": "Ignore assert statements of Python",
+      "default": false
+    },
+    "extractIR": {
+      "$id": "#/properties/extractIR",
+      "type": "boolean",
+      "title": "Extract Internal Representation of entry script. (TorchIR)",
+      "default": false
+    },
+    "variableRange": {
+      "$id": "#/properties/variableRange",
+      "type": "object",
+      "title": "Explicit range of random variables. null means unbounded",
+      "patternProperties": {
+        "^(.*)$": {
+          "oneOf": [
+            { "type": "null" },
+            { "type": "number" },
+            {
+              "type": "array",
+              "items": [
+                { "type": ["number", "null"] },
+                { "type": ["number", "null"] }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "variableSeed": {
+      "$id": "#/properties/variableRange",
+      "type": "object",
+      "title": "Assign random concrete value to some random variable by seed (if set)",
+      "patternProperties": {
+        "^(.*)$": {
+          "oneOf": [
+            { "type": "null" },
+            { "type": "number" }
+          ]
+        }
+      }
+    },
+    "boxDataLoader": {
+      "$id": "#/properties/boxDataLoader",
+      "type": "boolean",
+      "title": "Iterate torch DataLoader only once",
+      "default": true
+    },
+    "z3Port": {
+      "$id": "#/properties/z3Port",
+      "type": "number",
+      "title": "Port to Python Z3 server",
+      "default": 17851
+    },
+    "timeout": {
+      "$id": "#/properties/timeout",
+      "type": "number",
+      "title": "Analyzer timeout in millisecond. null means no timeout",
+      "default": 60000
+    },
+    "maxPath": {
+      "$id": "#/properties/maxPath",
+      "type": "number",
+      "title": "Set max path count, throw runtime error if path count exceeds it",
+      "default": 120
+    }
+  }
+}

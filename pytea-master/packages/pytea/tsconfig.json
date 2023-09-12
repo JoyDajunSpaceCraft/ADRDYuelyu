@@ -1,0 +1,18 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "noUnusedLocals": false,
+		"noImplicitAny": true,
+        "strictNullChecks": true,
+        "baseUrl": ".",
+        "outDir": "./out",
+        "paths": {
+            "pyright-internal/*": [
+                "../pyright-internal/src/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*"
+    ]
+}

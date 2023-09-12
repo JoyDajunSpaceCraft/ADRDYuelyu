@@ -1,0 +1,61 @@
+[
+  {
+
+      "country": "Denmark",
+      "year": "1757",
+      "AverageTemperatureUncertainty": "11.445"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1758",
+      "AverageTemperatureUncertainty": "1.744"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1755",
+      "AverageTemperatureUncertainty": "1.047"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1757",
+      "AverageTemperatureUncertainty": "3.497"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1757",
+      "AverageTemperatureUncertainty": "7.117"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1744",
+      "AverageTemperatureUncertainty": "1.454"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1757",
+      "AverageTemperatureUncertainty": "4.089"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1753",
+      "AverageTemperatureUncertainty": "3.695"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1751",
+      "AverageTemperatureUncertainty": "2.329"
+    },
+  {
+
+      "country": "Denmark",
+      "year": "1753",
+      "AverageTemperatureUncertainty": "6.727"
+    }]

@@ -1,0 +1,52 @@
+[
+  {
+    "country": "United Kingdom",
+    "year": "1780",
+    "AverageTemperature": "13.638"
+  },
+  {
+    "country": "Netherlands",
+    "year": "1912",
+    "AverageTemperature": "10.744"
+  },
+  {
+    "country": "Peru",
+    "year": "1994",
+    "AverageTemperature": "20.047"
+  },
+  {
+    "country": "Kazakhstan",
+    "year": "1900",
+    "AverageTemperature": "1.561"
+  },
+  {
+    "country": "China",
+    "year": "1896",
+    "AverageTemperature": "6.081"
+  },
+  {
+    "country": "India",
+    "year": "1963",
+    "AverageTemperature": "29.115"
+  },
+  {
+    "country": "Pakistan",
+    "year": "1970",
+    "AverageTemperature": "14.255"
+  },
+  {
+    "country": "Kazakhstan",
+    "year": "1850",
+    "AverageTemperature": "9.218"
+  },
+  {
+    "country": "Kazakhstan",
+    "year": "1983",
+    "AverageTemperature": "-6.241"
+  },
+  {
+    "country": "United States",
+    "year": "1901",
+    "AverageTemperature": "2.676"
+  }
+]

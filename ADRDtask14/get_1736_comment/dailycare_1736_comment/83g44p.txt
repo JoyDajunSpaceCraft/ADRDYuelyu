@@ -1,0 +1,26 @@
+As a caregiver, I'm coming from a point of view where my loved one can no longer use a device. With that being said:
+
+• For those caregivers who worry about their loved one who wanders -- an app sorta like "Find My Phone". Launch the app, drop it into the pockets of their loved one, and from a second device, know where they currently are.
+
+• When my wife's diagnosis was confirmed, I began to keep a semi-daily journal of things I'd noticed that didn't quite seem right. I had stopped doing that, but I wish I'd continued. A simple app to quickly jot down personality changes or whatever might have made the difference for me.
+
+• A checklist of medical and legal things caregivers need to keep track of (medical tests, suggested legal things that are recommended over at alz.org).
+
+Good luck at your hackathon, and come back and tell us what you ended up doing!
+I’m not a care giver any longer, but when I was, the the biggest problem for us was keeping track of mom. We had to deadbolt with a key the locks so she wouldn’t wander. We also had to child proof the kitchen and bathrooms so that she wouldn’t get into non-food items and ingest. 
+
+Currently I have the SmartThings hub to monitor my house for security, and I could see that it would have been a godsend for dealing with my mother. However, I think that current caregivers are older, and typically not as tech savvy to use this type of product and fully utilize to their benefit. (My mother had ‘early onset’ and I’m not convinced my dad in his 60s would have set it up.). I think an ‘out of the box’ hub, specifically designed for dementia patient caregivers would be a real benefit. For monitoring doors, location, and even vital signs and medication dosage. The whole works!
+I will also add that the animoji feature of my iPhone X for some reason is a hit with my mom. It's the only thing that's able to engage her, besides humans, on her good days. I think there's something there worth researching and developing. 
+Exactly what the person below said. A tracking device would be so helpful, something that had a long charge. Also the ability to have checklists to take the best care of them. It can be overwhelming to the caretaker to keep track of everything. 
+A discreet looking RFID system of iron on tags for clothes or something that would send traps/notices to a human monitored device like a smart watch the caregiver wore and/or a phone, when the RFID tags approach a movable detector. 
+
+
+The majority of helpful devices for caregivers are surprisingly not internet/WiFi connected.  
+   
+
+A simple button to be pushed to ask for help.  Most connect to call center that can only call an ambulance and cost a fortune.  I found one that will call on my phone through a landline connection so it can be used for more than just emergencies.  Anything from I’ve fallen to I need to go to the bathroom/need a drink/am confused etc.  
+
+
+Bed alarms, door alarms chair alarms and incontinence alarms all do nothing other than screech which is helpful but sometimes counterproductive.  My SO can no longer walk well on his own, but his dementia makes it hard for him to realize this.  With our current bed alarm it makes a noise when his weight lifts off the bed.  At this point the alarm scares him and almost ensures a fall.  It could alert me in the next room and I would be aware he is trying to walk and not scare him.   The same with incontinence alarms.  It beeps and wakes him, he is then scared disoriented and wet.  If it would alert me I can change him without waking him most of the time and if I do wake him it is in a less jarring way.  Trackers and cameras are always helpful but so are simple door alarms.  If I got an alert when the door was opened I could stop wander before he needs to be located. 
+
+

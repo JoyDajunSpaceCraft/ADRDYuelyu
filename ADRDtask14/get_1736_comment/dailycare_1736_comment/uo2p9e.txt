@@ -1,0 +1,38 @@
+I would not advise getting someone a laptop if they cannot really use it
+
+Just get them a tablet for doing games and watching videos
+Keep the laptop for yourself
+Sorry if i already said this. Tweaks for seniors are readily available but i wanted to suggest:
+
+Install a remote agent like jump desktop or one of the many others. Then you can jump on and quickly resolve their issues remotely. And encourage them to contact you immediately if someone is claiming to be tech support helping them with a virus, or before submitting any kind of payments.
+
+Make them a standard user while you hold an administrator account. This will prevent them (or others or malware) from screwing up things easily.
+Just another thing to consider for their devices- encourage your older relatives to buy giftcards (like iTunes or Google play) instead of linking their main credit cards to accounts/websites. Or to use a credit card with a low balance, like $500. If the accounts ever become compromised, it’ll impact them a bit less.
+I moved my parent over to a Linux Mint install. Looks a lot like windows, and I put the two things they needed on the desktop (Firefox and Thunderbird) and feel better about them not being able to install windows based viruses by accident. I'm not a full-time Linux guy but do enough to be able to troubleshoot it on the rare occasion my parent has an issue with it. So far, so good on an old machine running for them close to two years now.
+If this is what you meant: https://www.techrepublic.com/article/how-to-disable-the-lock-screen-in-windows-11-an-update/
+I'm here to tell you that Google is your friend. If you throw these questions in there you might be surprised at what you get back. I do IT work but I don't know anything about Windows 11.
+
+For the updates you should be able to go to settings and then updates and there should be options there.
+
+Not real sure what you mean by nag screens. If you mean pop ups there is a way to disable them in the browser, depending on which one you're using.
+I’m dealing with this Windows 11 issue on my new laptop and Googling yielded some good answers on how to permanently remove any possibility of Windows 11 activation options. It involves going into the registry so I haven’t started the process yet as I’m not that savvy and want to make sure I do it correctly. 
+
+The only other option is to to delay the (so-called) “upgrade” to Windows 11 every couple of weeks. This is done in Settings and would have to be done periodically and you probably don’t want to count on your relatives to be managing that aspect of it.
+For the login, setting it up so that you enter a 4-digit PIN may be easier than requiring a password.  But I think some type of log-in is required.
+
+Norton SafeSearch is on my elderly parent’s computer but it seems to result in multiple phishing sites.
+Skip the high power PC, seriously.   Get them a decent Chromebook, it's going to save a lot of headaches..    I did this for both my parents and my in-laws, and it's been fantastic.  Everything just works, and if something does go wrong, you just reset it, they log in again and get their profile back from cloud backup.   Reset is also simple enough I have been able to talk them through it on the phone.
+Install Linux Mint and autologin. Static IP on laptop and public IP so you can do apt-get update from your home
+I know this isn’t the answer for OP, but for others in this situation, I’d go a step farther and only recommend an iPad.  Much simpler, much less chance of going wrong.
+They’ve been using laptops for 20 years, so it’s not new
+Great tips!
+
+I have an elderly relative who is going through cognitive decline.  She constantly forgets and then resets her Windows password.  My concern is that she is going to lock us out of the computer, and it has ALL of the financial and bill information we need when paying her bills for her.  I setup a second Admin account, but changing her account to a standard account is a great idea.
+I very respectfully submit this is madness but I’m glad it has worked well for you lol
+The best thing you can do is install a remote viewer/access like VNC. Then you can login remotely to fix stuff
+I got my parents a Chromebook before they got really bad and it was a great choice. Super reliable and stable OS, the laptops themselves a light and the battery life is phenomenal, literally days without a recharge. 
+
+Chances are it does 95% of what they want or need right out of the box.
+I respectfully accept your diagnosis, but I am also glad it has worked out well. Best of luck with you and yours on whatever solution you come up with.
+That's actually a really good idea. I'm often abroad, and if I had access I could easily assist
+I use AnyDesk with my mom's PC.  It's free, works great.  The PC has to be on though.

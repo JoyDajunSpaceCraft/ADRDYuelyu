@@ -1,0 +1,52 @@
+[
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.248",
+    "AverageTemperature": "-0.325"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.537",
+    "AverageTemperature": "15.914"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.396",
+    "AverageTemperature": "6.481"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.249",
+    "AverageTemperature": "16.913"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.322",
+    "AverageTemperature": "18.427"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.29",
+    "AverageTemperature": "-3.115"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.271",
+    "AverageTemperature": "18.651"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.456",
+    "AverageTemperature": "8.332"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.181",
+    "AverageTemperature": "12.615"
+  },
+  {
+    "country": "Denmark",
+    "AverageTemperatureUncertainty": "0.264",
+    "AverageTemperature": "-5.946"
+  }
+]

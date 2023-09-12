@@ -1,0 +1,70 @@
+[
+  {
+    "qas": [
+      {
+        "question": "if anyone has advice on activities we can give a woman with early onset Alzheimer's, to do alone or with us, it would be greatly appreciated.",
+        "is_impossible": false,
+        "id": "0",
+        "answers": [
+          {
+            "answer_start": 252,
+            "text": "She's having trouble recalling certain words and her delusions are worse."
+          },
+          {
+            "answer_start": 625,
+            "text": "Boyfriend and I visit every other day to make sure she takes her pills and eats."
+          },
+          {
+            "answer_start": 780,
+            "text": "She told us that during the day, she has nothing to think about."
+          },
+          {
+            "answer_start": 1191,
+            "text": "I plan to cook with her next time we see her."
+          }
+        ]
+      }
+    ],
+    "context": "Late last year my boyfriend's mother was diagnosed with dementia. Early onset Alzheimer's runs in her family. She is still relatively with it, as she recognizes most people and can talk about her day.\nLast week she had a stroke. Her memory took a hit. She's having trouble recalling certain words and her delusions are worse. She still recognizes us, but it frustrates her when she doesn't remember details or who else visited her that day. She's still convinced she'll get better one day.\nShe's retired, but her husband is not, so she spends most days alone with a few people coming to check on her or give her medications. Boyfriend and I visit every other day to make sure she takes her pills and eats. She ideally needs 24/7 care, but it's not financially possible right now.\nShe told us that during the day, she has nothing to think about. She spends most of her time watching TV, and she's starting to have trouble remembering how to make it play what she wants. She used to be interested in arts and crafts, but it was always socially. I don't know if her fine motor skills are intact.\nI'm worried if she doesn't have anything to do she won't improve at all or she'll decline faster. I plan to cook with her next time we see her. She lit up when I suggested it and went to find some recipes. Otherwise I'm not sure what we could do. I really want something that encourages her mind to work.\nTDLR: if anyone has advice on activities we can give a woman with early onset Alzheimer's, to do alone or with us, it would be greatly appreciated. Or any advice at all on how to support my boyfriend and his family through this difficult time, resources, ect. Thanks in advance."
+  },
+  {
+    "qas": [
+      {
+        "question": "Any tips, either on getting tangles out or how to go about cutting it?",
+        "is_impossible": false,
+        "id": "1",
+        "answers": [
+          {
+            "answer_start": 160,
+            "text": "It's waist length and there are knots all the way up and at the base of her skull."
+          },
+          {
+            "answer_start": 243,
+            "text": "I'm worried that this may be bad for her health, I don't want her getting a fungus under there."
+          },
+          {
+            "answer_start": 541,
+            "text": "I can't think of anything else but to cut the knots out, but I think this may mean using clippers on the back of her head."
+          }
+        ]
+      }
+    ],
+    "context": "My MIL went to visit a relative for a few weeks so that partner and I could get respite. Unfortunately, her hair never got combed or brushed and is now matted. It's waist length and there are knots all the way up and at the base of her skull. I'm worried that this may be bad for her health, I don't want her getting a fungus under there. We tried soaking it with coconut oil last night and combing it, but we couldn't get all of the knots out and she refuses to help. She got quite agitated, threatened to hit us, and was yelling about it. I can't think of anything else but to cut the knots out, but I think this may mean using clippers on the back of her head. Her hair has been her pride and joy for her entire life and I don't want to take this from her, but I don't know what else to do, I think it will only get worse from here. \\nAny tips, either on getting tangles out or how to go about cutting it? She's adamant that she won't have her hair cut."
+  },
+  {
+    "qas": [
+      {
+        "question": "Are there any exercises to strengthen her legs or i should just aim to have her walk a little more each day?",
+        "is_impossible": false,
+        "id": "1",
+        "answers": [
+          {
+            "answer_start": 0,
+            "text": "my mum, on 8th year of alz, is usually on the bed or wheelchair.she rarely walks and if she does, it requires multiple ppl."
+          }
+        ]
+      }
+    ],
+    "context": "my mum, on 8th year of alz, is usually on the bed or wheelchair.she rarely walks and if she does, it requires multiple ppl. Are there any exercises to strengthen her legs or i should just aim to have her walk a little more each day?"
+  }
+]

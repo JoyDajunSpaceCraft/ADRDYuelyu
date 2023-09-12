@@ -1,0 +1,34 @@
+Not had any experience with insulin, but Gliclazide had been a better replacement for Metformin with my PWD and created some stability with bloods and cognitive decline.
+Can you link the study you’re referring to?
+There's been Rise in insulin infusion clinics scamming people with promises of dementia cures and even Parkinson's cures.    None of this is approved or covered by insurance as it's not proven effective 
+
+Be wary of these!
+I believe my wife is taking glipizide along with metformin.  Two possibilities; Either her diabetes is getting worse or she has become refractory to metformin.  I've read it does happen.  Her primary isn't good.  He blames my wife for her poor glucose control, never considering it might be that the drug is no longer working or that she should be on insulin.
+No experience with insulin either, but piggybacking on this comment to add some diabetes practice guidelines from my wonderful primary care mentor:
+
+TIER 1: METFORMIN
+
+TIER 2: SGLT-2 inhibitors such as Empagliflozin, Canagliflozin, Dapagliflozin; some are in combination with metformin or DPP4 inhibitors, and those are even more expensive; GLP-1 agonists (only Semaglutide is oral, and is pretty expensive and hard to acquire too in the Philippines); other GLP-1 agonists like Liraglutide are available in combination with long-acting insulin
+
+TIER 3- DPP4-inhibitors- probably the safest and most tolerable but not the most efficacious and boasts less benefit for other organs like heart and kidney which are present in TIER 1 AND 2
+
+TIER 4- Thiazolidinediones (TZD), sulfonylureas-efficacious but notorious for causing hypoglycemia
+
+TIER 4 is preferred when there are financial constraints
+
+TZD- associated with weight gain and can worsen outcomes in patients with heart failure.  Sulfonylureas are associated with poorer outcomes in patients with existing CVS disease.
+
+Taking a break from quoting my mentor, this is now me speaking as a medical student: I have yet to read a case on metformin refractoriness actually- esp. in the Philippines where clinical practice guidelines- maximize use of metformin.  I can get back to you if I read something good.
+
+&#x200B;
+
+Going back to quoting the mentor: Metformin is only really avoided if there is allergy and poor tolerability, mostly due to vomiting, GI upset, diarrhea, etc.
+
+TIER 5 (last tier)- alphaglucosidase inhibitors, other drugs/interventions for obesity if present
+ CNS Drugs  
+. 2021 Jan;35(1):21-37. doi: 10.1007/s40263-020-00781-x. Epub 2021 Jan 30.  
+Intranasal Insulin for Alzheimer's Disease  
+Manfred Hallschmid 1 2 3  
+Affiliations expand  
+PMID: 33515428 PMCID: PMC7873098 DOI: 10.1007/s40263-020-00781-x  
+Free PMC article

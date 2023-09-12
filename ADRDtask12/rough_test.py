@@ -1,0 +1,6 @@
+from rouge_score import rouge_scorer
+
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL', 'rouge2'], use_stemmer=True)
+scores = scorer.score("The patient was admitted for detoxification off of ethanol.She has been drinking about a fifth of vodka a day. A person with a history of alcoholic ketoacidosis reports a withdrawal seizures.The patient denies any other substance abuse or substance abuse. Homicidal ideation denies suicidal or homicidal ideation.Depression is a mental illness that can be treated with medication. She's states that she started drinking again soon after discharge. Alcoholics have a long history of alcoholism. She has been using no other form of contraception.",
+                      "The patient presents with depressed mood. Ethanol abuse requesting detoxification services. The patient does meet criteria for inpatient detox. However there are no available inpatient detoxification beds, is not a suitable candidate for outpatient detoxification given her history of complicated withdrawal and will be admitted to medical service for treatment of ethanol withdrawal..")
+print(scores)

@@ -1,0 +1,22 @@
+I wonder if you'll get better/helpful responses if you post this on a subreddit geared towards IT solutions. It's a really good idea but I have no idea if it's possible
+ I Took some online classes a few years ago. We used a conferencing software that was great. Their screen would fully be your screen, so if you're playing a movie on your pc theyre seeing it fill their screen. It also had the ability to switch to the webcam and each student was shown in a large thumbnail on the side of the screen. If you wanted them to see it large size theyd need a graphics card that could display in a high resolution. But for a normal monitor size it should be good.  Cant remember the name of the software we used but there are many good ones out there. 
+
+Woirst thing would be they or someone there would need to fire up the pc and monitor or tv and start the software. For that matter you could use the same utility that tech suport uses when they take control of your PC and start the software for them. 
+
+If they already have a tv youre going to use you would want to be sure it has the right plugs and can work with the pc and that the graphics card on the pc will work with the tv and has a high resolution. 
+
+You should get good help in the other reddit, if not if you have  local IT shop they could help you out. Or if you have a colege or JC with a IT dept....
+
+best of luck
+Try /r/techsupport.
+
+You could also post in /r/findareddit for additional subs that might be able to help.
+
+Good luck!
+Is it switching sources that's messing them up?  If they can load the DVD there are solutions for the control.  Look at Logitech Harmony remotes.  One button, possibly on a touch screen labeled by you, can switch all devices on/off and set sources.  At my dad's house you just hit "watch a DVD" and all the right devices are turned on and sources set, you could even have it eject the tray.
+Thanks !
+I used to use something called RealVNC it worked well but was over two years ago so there might be something better now.
+Great ideas!  Thanks. I’ll look into them
+Thanks
+Thanks.  We have that one button ability too. Maybe it’s just the old technology I’m using but both solutions we tried for that required properly aiming the remote for the duration of the whole cycle of switching the various components.  If they moved the remote half way through that process (which they always did) then everything would be in even worse shape and it would require one of us to go over and properly set it so everything was in the correct state again.   They definitely aren’t able to fix the issue when they stop aiming the remote part way through the script. And we are getting to a point where putting in the DVD’s is a challenge. Lol.  Come to think of it, I’m pretty sure my 10 yr old doesn’t know how to put in a DVD either!
+Ya the aiming thing was an issue with my dad too.  He still knows to turn everything off when things go sideways.

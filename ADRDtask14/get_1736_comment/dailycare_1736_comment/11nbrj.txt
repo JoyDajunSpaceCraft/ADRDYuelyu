@@ -1,0 +1,23 @@
+You should look into a Conservatorship:  http://www.edlc.com/PracticeAreas/Guardianships.asp
+
+Regarding debt, the creditors will have to be paid out of the estate before the beneficiaries can be paid. 
+
+The savings account may be counted as part of the estate, unless it is all your brother's money. 
+Disclaimer: I'm an estate attorney in Virginia, not Maryland, so this is based on a quick search for comparable laws.  YMMV.
+
+>There isn't much to leave, I'd say everything together comes in below $10,000
+
+Looks like Maryland has a Small Estates Act.  If the total value of the estate is less than $50,000, they let you go through an abbreviated probate process, regardless of whether or not there is a will.  Without a will, his assets will pass to his next of kin according to the intestacy statutes.  Try this [intestacy calculator](http://www.mystatewill.com/states/MD/MDintcalc.php) to figure out where his assets would go without a will.  (Again, not a MD attorney, so I don't know how accurate this is.  The Virginia version on this site was correct.)
+
+>I'm worried about a savings account he opened with my little brother. My brother cosigned on it but he is only 15. I don't know how that would be accessible after he passes. Anyone?
+
+This may come down to the bank's policy if there is no superseding law, and I honestly wouldn't know where to find it in the MD statutes.  If the account is joint with survivorship, your brother will own the account (possibly subject to a custodian appointed by the bank).  If it's not with survivorship, half of the account will pass to your father's heirs as above. 
+
+>Is there any way to obtain power of attorney when someone is no longer able to make their own decisions?
+
+No.  You would need to establish guardianship and/or conservatorship.
+
+>If someone dies with debt how is that applied or where does it go? Is it written off as bad debt or passed on to the beneficiaries?
+
+Debts of the estate are not passed on to the beneficiaries.  Creditors get paid before the beneficiaries do, but if there's no money left in the estate, the debts just don't get paid. 
+Petition for guardianship. Forms are on the md judiciary website, but consultation with an attorney is advised, 

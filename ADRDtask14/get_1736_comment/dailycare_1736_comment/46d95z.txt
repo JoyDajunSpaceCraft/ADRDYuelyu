@@ -1,0 +1,44 @@
+tl;dr warning! :-)
+
+You should speak with a physician or a genetic counselor, and among other things, they will ask you about your family history. If DNA testing then seems warranted for medical reasons, you should take a clinically validated test ordered by a physician. For examples of such tests, head to [GeneTests.org](https://www.genetests.org).
+
+Direct-to-consumer testing of the $99/$199 variety is currently based on genotyping (not DNA sequencing). Some of the DNA variants associated with increased risk for Alzheimer's are tested by some of these companies, but not all by any means.
+
+[Promethease](http://snpedia.com/index.php/Promethease) is not a testing service; it is a literature reporting service that makes a report for you based on whatever data you bring to it from the testing company you used. Promethease is based on [SNPedia](http://snpedia.com/index.php/SNPedia), which is a wiki like Wikipedia but 100% focused on DNA.
+
+So if the medical literature is accurately summarized in SNPedia, Promethease will accurately report it for the variants that were tested by the company you chose to produce the raw data. If that company didn't test a given variant, then you won't have data for it, and Promethease won't report anything about it in your report. 
+
+There are many pages in SNPedia about DNA variants that have been reported to change Alzheimer's risk; for an overview page, see [this one](http://snpedia.com/index.php/Alzheimer%27s_disease) and feel free to click the "What links here" link near the bottom for a much longer list. Most variants indicate which DNA chip (aka platform) tests it, so you can see which company tests it.
+
+Be aware of three additional factors. 
+
+First: many disorders (including Alzheimer's) are due to both genetics and environmental factors. DNA is rarely destiny; see [Heritability](http://snpedia.com/index.php/Heritability) in SNPedia to learn more.
+
+Second, the major genotyping (direct-to-consumer) tests have quite high technical accuracy, but they are not perfect and errors can happen, so if you get a medically significant finding you should "get a second opinion", i.e. you should get a clinically validated test to see if it holds up, before you make any important medical or lifestyle actions or decisions. 
+
+Third, the medical literature primarily reports risk based on a single variant out of context of the rest of your genome. So your Promethease report will typically show that you carry some variants that slightly increase risk for a given disorder, and, some variants that slightly decrease risk for that same disorder. With few exceptions, science has not advanced to the point where it is possible to accurately calculate your overall risk for a disorder based on the exact set of variants that you happen to be carrying, even if all your DNA was assayed. 
+
+The important question for you will probably be, "Am I carrying a DNA mutation that all on it's own significantly increases my risk for early- or late-onset Alzheimer's?" In SNPedia, these variants (or alleles) will usually have a "bad repute" and a magnitude of ~4 or higher (on a scale of 1 to 10), and so if your Promethease report only has genotypes with, say, magnitude scores of 2 or lower, it's saying that none of those type of variants were in your data file.
+
+Conflict of interest statement: We created and maintain SNPedia and Promethease. We do our best to avoid biases and to make both as useful to as many people as possible at either no or nominal cost, but genomics is complex and it doesn't come with a guarantee or warranty. If you know of peer-published scientific information about a DNA variant that meets our inclusion [criteria](http://snpedia.com/index.php/SNPedia:FAQ#Which_SNPs_are_selected_to_go_into_the_Wiki.3F_And_where_are_they_selected_from.3F) but is missing or incorrect in SNPedia, email us the details.
+I used Promethease for this. My mother passed last April at the age of 92. She developed dementia in her late 80's. She had multiple possible causes: 5 major surgeries starting in her mid-eighties (being put under is a possible cause of dementia in the elderly), her vitamin B12 bottomed out, which can cause irreversible dementia, and stress. Nevertheless I worried about a genetic cause and sure enough, I have one APOE-e4 and one e3. Promethease gives the e4 allele a badness score of 3.5. Fortunately I have another gene that mitigates it somewhat: rs5882(G;G) lowers the risk of Alzheimer's and has a goodness score of 2.1. So... I'm not sure how worried I should be at this point. 
+I recently imported my 23andMe DNA data into Promethease, after staring at the screen for a while asking myself if I really want to know. I have questions for you if you can answer them. You said the magnitude score is on a scale of 1 to 10. When I view my report I can't increase the magnitude scale higher than 4. Is that because my highest value is 3.5? It makes a difference whether it's 3.5 out of 4 or 3.5 out of 10! 3.5 out of 4 sounds very scary; 3.5 out of 10 not so much. 
+Yes. The reason you can't increase the scale higher than 4 is because  you don't have anything in your report of magnitude 4 or above.
+
+Btw, the scale actually starts at 0, which is what we usually assign to a genotype that is the most common one and about which nothing of particular significance is known.
+Thank you! I hope you can answer another question: I have the gs141 genoset, which gives me a 2x risk of Alzheimer's and has a badness score of 3.5. As I understand it this is because because I have one APOE-e4 (and one e3), which is defined by two SNPS: rs4420638 and RS7412. When I list the SNPs I see that the rs4420638 by itself gives me a 3x risk of Alzheimer's, although the badness score is only 2. I don't understand...if it's a higher risk wouldn't the badness score be higher? Why is the risk lower for the APEO-e4 than for one of its components? Thank you for being here!
+Gs141 is based on rs7412 and rs429358 (not rs4420638).
+
+rs4420638 is in the ApoC1 gene, next door to the ApoE gene. It can be used to predict ApoE allele status since variants in one are usually  co-inherited with variants in the other.
+
+Different publications study different variants and can come up with somewhat different risk scores. In this case, since it's ApoE-based risk, the most robust statistics are likely to come from your ApoE allele combination and not from the ApoC1 proxy.  But be wary of over-thinking this ... risk numbers are inherently fuzzy and based on numerous assumptions, and, magnitude is deliberately a subjective score. 
+[deleted]
+This touches on a very big topic. But to be brief:
+
+1. If we know of a credible, published method for combining risks for a given disease, it becomes a genoset in SNPedia.
+
+2. There are additive as well as weighted genetic risk score models (aka polygenic risk scores) that try to estimate risk. The higher the heritability and the lower the number of variants with major impact, the better they do. But in general these models are definitely not ready for prime time.
+
+3. Population studies are the way to go, but they require a lot of people to get enough statistical power to definitely assess interactions. Having data on a lot of variants (for example, from full genome sequencing) is also better than just having the small portion of the genome sampled by current DNA chips.
+
+In summary: don't worry about a bunch of low level risk factors like the ones you mention. 

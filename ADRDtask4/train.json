@@ -1,0 +1,1609 @@
+[
+  {
+    "qas": [
+      {
+        "question": "do i just listen?",
+        "is_impossible": false,
+        "id": "0",
+        "answers": [
+          {
+            "text": "my 71 year old mother has been dealing with alzheimer's for many years.",
+            "answer_start": 0
+          },
+          {
+            "text": "what's best in your experiences?",
+            "answer_start": 760
+          }
+        ]
+      }
+    ],
+    "context": "my 71 year old mother has been dealing with alzheimer's for many years. i've been bathing her about a year now. dad turns off gas and locks doors ( supplying details to give a frame of reference ). she often talks about going home to check on her parents (gone for 20 years) or kids (i'm her youngest at 34 years old) or whatever. she yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't). we are managing, but what's best to say to her? when she pleads to me to pick her up and take her home? most if the time, i can change the topic and she forgets eventually, but sometimes she gets fixated. do i go pick her up and drive around? do i gently remind her she is home? do i just listen? what's best in your experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "what's best in your experiences?",
+        "is_impossible": false,
+        "id": "1",
+        "answers": [
+          {
+            "text": "my 71 year old mother has been dealing with alzheimer's for many years.",
+            "answer_start": 0
+          },
+          {
+            "text": "do i just listen?",
+            "answer_start": 742
+          }
+        ]
+      }
+    ],
+    "context": "my 71 year old mother has been dealing with alzheimer's for many years. i've been bathing her about a year now. dad turns off gas and locks doors ( supplying details to give a frame of reference ). she often talks about going home to check on her parents (gone for 20 years) or kids (i'm her youngest at 34 years old) or whatever. she yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't). we are managing, but what's best to say to her? when she pleads to me to pick her up and take her home? most if the time, i can change the topic and she forgets eventually, but sometimes she gets fixated. do i go pick her up and drive around? do i gently remind her she is home? do i just listen? what's best in your experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "is it possible to find a memory care living facility for her that her husband could also be with her?",
+        "is_impossible": false,
+        "id": "2",
+        "answers": [
+          {
+            "text": "mil cannot work but is receiving ssdi.",
+            "answer_start": 163
+          },
+          {
+            "text": "if anyone has any advice regarding this i'd appreciate it.",
+            "answer_start": 540
+          }
+        ]
+      }
+    ],
+    "context": "a friend of mine is currently living with her in laws, her mil is 52 with early onset alzheimer's, it has progressed a lot in the past year since being diagnosed. mil cannot work but is receiving ssdi. is it possible to find a memory care living facility for her that her husband could also be with her? i feel like it's not common in people as young as them, since neither are seniors. but they're still very much in love and attached and cannot live apart, but she of course needs help and care that the family cannot provide themselves. if anyone has any advice regarding this i'd appreciate it."
+  },
+  {
+    "qas": [
+      {
+        "question": "what sort of questions should we ask in order to get the full picture and to help my grandpa understand it a little bit better?",
+        "is_impossible": false,
+        "id": "3",
+        "answers": [
+          {
+            "text": "my grandmother, whose (likely) dementia has been worsening at an increased pace for the last two or so years, but she was always able to talk herself out of a diagnosis when at the doctors, and my grandfather was in denial about all of it.",
+            "answer_start": 0
+          },
+          {
+            "text": "she would call my dad at all hours of the day and night to tell him there is a man in their house, she didnt feel safe, and wanted to go home.",
+            "answer_start": 467
+          },
+          {
+            "text": "she can barely get around their small home on a good day.",
+            "answer_start": 912
+          },
+          {
+            "text": "she hasnt driven anywhere in 7 or so years.",
+            "answer_start": 970
+          },
+          {
+            "text": "it is 30 and freezing rain here today, but she decided to go for a walk.",
+            "answer_start": 1163
+          },
+          {
+            "text": "thanks",
+            "answer_start": 1692
+          }
+        ]
+      }
+    ],
+    "context": "my grandmother, whose (likely) dementia has been worsening at an increased pace for the last two or so years, but she was always able to talk herself out of a diagnosis when at the doctors, and my grandfather was in denial about all of it. she now hasnt been to a doctor in over a year for any reason because she doesnt like to leave the house.  lately she has been alternating between confusing my grandpa for her abusive step father or not know who he is entirely. she would call my dad at all hours of the day and night to tell him there is a man in their house, she didnt feel safe, and wanted to go home. my dad is always able to calm her down, so although stressful for all involved, my grandpa was still not convinced she needed medical intervention. she oftentimes thinks people are breaking into the house, someone is stealing their money, or spying on them.  my grandma walks hunched over with a cane. she can barely get around their small home on a good day. she hasnt driven anywhere in 7 or so years. my grandpa has breathing problems and tires out easily, and often naps.  today, for the first time, my grandma left the house while he was sleeping. it is 30 and freezing rain here today, but she decided to go for a walk. a neighbor saw her down the street and took her back home. grandpa called my dad, who came over and had a hard talk about taking her to the doctor.  so, on monday they will call and make an appointment with her gp. what sort of questions should we ask in order to get the full picture and to help my grandpa understand it a little bit better? i know this isnt going to be easy on either of them, but we want to try to make things as painless as possible.  thanks"
+  },
+  {
+    "qas": [
+      {
+        "question": "is anyone aware of such resources?",
+        "is_impossible": false,
+        "id": "4",
+        "answers": [
+          {
+            "answer_start": 264,
+            "text": "they were recently given some options for treatment of some cardiac issues that he has and id really like some resources to help my mom (with me supporting her) navigate the decision making process."
+          }
+        ]
+      }
+    ],
+    "context": "my dad has early onset alzheimers, diagnosis was about 10 years ago. he lives at home with my mom as primary caregiver and is still fairly independent although is starting to have some sporadic incontinence issues and difficultly remembering key life information. they were recently given some options for treatment of some cardiac issues that he has and id really like some resources to help my mom (with me supporting her) navigate the decision making process.  is anyone aware of such resources? she is connected with a social worker who she will talk with, but i was wondering if there were other books, blogs, sites that she and i could read to help understand the choices."
+  },
+  {
+    "qas": [
+      {
+        "question": "any ideas?",
+        "is_impossible": false,
+        "id": "5",
+        "answers": [
+          {
+            "text": "i need something that will automatically send any unknown, untrusted numbers to voicemail.",
+            "answer_start": 82
+          },
+          {
+            "text": "ive found the sentry product online but it seems too easy to get around by pressing 0 and then calling back.",
+            "answer_start": 174
+          },
+          {
+            "text": "theres no reason for my mom to pick up a call from an unknown caller at this point.",
+            "answer_start": 284
+          }
+        ]
+      }
+    ],
+    "context": "my mom has early stage alzheimers and has already been the victim of one scammer. i need something that will automatically send any unknown, untrusted numbers to voicemail.  ive found the sentry product online but it seems too easy to get around by pressing 0 and then calling back.  theres no reason for my mom to pick up a call from an unknown caller at this point.  any ideas?"
+  },
+  {
+    "qas": [
+      {
+        "question": "has anyone else gone through this?",
+        "is_impossible": false,
+        "id": "6",
+        "answers": [
+          {
+            "text": "we had noticed that he was forgetting when he was, and more importantly, this man who always balanced his checkbook to the penny had suddenly racked up tons of debt and had collectors calling him.",
+            "answer_start": 154
+          },
+          {
+            "text": "we thought maybe we could do assisted living, but it turned out he needed more care than that.",
+            "answer_start": 741
+          },
+          {
+            "text": "today was his move in day, and after spending about two months in an absolutely horrible wreck of a nursing care facility, he seemed much happier in the new place.",
+            "answer_start": 931
+          },
+          {
+            "text": "he has his own room now and lots of people he can interact with.",
+            "answer_start": 1095
+          },
+          {
+            "text": "i know we made the right decision as no-one in the family could give him the proper care he needed, but i'm still a wreck.",
+            "answer_start": 1160
+          }
+        ]
+      }
+    ],
+    "context": "hello to everyone. i just found this reddit and i just felt the need to post. about six months ago, my 80 year old father was diagnosed with alzheimer's. we had noticed that he was forgetting when he was, and more importantly, this man who always balanced his checkbook to the penny had suddenly racked up tons of debt and had collectors calling him. shortly after the diagnosis, he was mostly ago, until about two months ago. he started falling constantly, wanted to go  'home ' (where this home was, we never knew) and was hallucinating people. it turns out he developed a uti on top of this, which made matters worse. they thankfully were able to clear that up, but it seems that the uti made him progress faster than any of us expected. we thought maybe we could do assisted living, but it turned out he needed more care than that. so after a lot of talk and discussion, we made the choice to place him in memory care faculty. today was his move in day, and after spending about two months in an absolutely horrible wreck of a nursing care facility, he seemed much happier in the new place. he has his own room now and lots of people he can interact with. i know we made the right decision as no-one in the family could give him the proper care he needed, but i'm still a wreck. i know i shouldn't feel this way, but i feel horribly guilty about having to place him there. i have no idea why i'm having these feelings. i also am a wreck just knowing that he's slowly going to slip away and one day, he's just going to be a shell, i guess placing him there just kinda of confirmed it for me. is this normal? has anyone else gone through this? i guess i just needed to let it out. thank you for listening."
+  },
+  {
+    "qas": [
+      {
+        "question": "are there any suggestions on how i might find someone who researches rare mutation in psen?",
+        "is_impossible": false,
+        "id": "7",
+        "answers": [
+          {
+            "text": "my grandmother had ad with symptoms in her early 60s and died in her early 70s her father also.",
+            "answer_start": 114
+          },
+          {
+            "text": "given the rarity of the mutation (<20 cases ever known) id like to help researchers learn more.",
+            "answer_start": 332
+          }
+        ]
+      }
+    ],
+    "context": "i recently learned i have a very rare psen2 mutation in rs63750110, also known as c.1316a>c, d439a or asp439ala.  my grandmother had ad with symptoms in her early 60s and died in her early 70s her father also.  however because my father is in his 70s now and without symptoms, i dont qualify for the dominantly inherited ad study.  given the rarity of the mutation (<20 cases ever known) id like to help researchers learn more.  are there any suggestions on how i might find someone who researches rare mutation in psen?  thanks for any advice."
+  },
+  {
+    "qas": [
+      {
+        "question": "when did you find it was the right time to move your loved one to full time care?",
+        "is_impossible": false,
+        "id": "8",
+        "answers": [
+          {
+            "text": "hi folks.",
+            "answer_start": 0
+          },
+          {
+            "text": "i'm really struggling with what to do next and would love to hear from you all.",
+            "answer_start": 10
+          },
+          {
+            "text": "i feel dragged back in to the dysfunction and abuse to manage her care, but have been diligent with liaising with all of her doctors, and doing my best to ensure she's getting the best care possible, implementing solutions like hiring housecleaning, homecare visits several times a week, getting pillpack, etc.",
+            "answer_start": 785
+          },
+          {
+            "text": "i'm really worried she's only speeding her decline as she has very little social life and basically only interacts with her boyfriend (himself a 77 year old who does not seem to grasp the concept of this disease and how she might look the same but she is not capable of making decisions, etc.).",
+            "answer_start": 1312
+          },
+          {
+            "text": "i have notes from 2 of her doctors right now (neuro and endocrinology) that state she is not capable of making decisions for herself and should move to assisted living.",
+            "answer_start": 1608
+          },
+          {
+            "text": "i guess i'm just looking to learn from you all how you executed a move for your loved one.",
+            "answer_start": 2108
+          },
+          {
+            "text": "i've toured 7 or so of memory care communities and the representatives always tell me that nobody wants to move or thinks it's their time to move.",
+            "answer_start": 2199
+          },
+          {
+            "text": "thanks for reading and thanks for your help.",
+            "answer_start": 2604
+          }
+        ]
+      }
+    ],
+    "context": "hi folks. i'm really struggling with what to do next and would love to hear from you all. this community has brought me a lot of comfort the past few months although this is my first post.  my mom's alzheimer's diagnosis was made aware to me early in 2019, and i have been watching her slowly decline further the past 6 months or so. i'm an only child who lives out of state (bout a 2 hour plane ride from her) and am her poa for medical and health, and trustee of her trust, so all decisions go to me. when did you find it was the right time to move your loved one to full time care? i am not willing to become a full time care giver to my mom. we did not have a good relationship before her diagnosis and i have basically spent my adult life trying to recover from childhood trauma. i feel dragged back in to the dysfunction and abuse to manage her care, but have been diligent with liaising with all of her doctors, and doing my best to ensure she's getting the best care possible, implementing solutions like hiring housecleaning, homecare visits several times a week, getting pillpack, etc.  she's getting worse and worse and conversations are just cyclical like the same 30 seconds on repeat. she sits at home and watches tv, although recently she has even taken to just sitting, without even watching tv. i'm really worried she's only speeding her decline as she has very little social life and basically only interacts with her boyfriend (himself a 77 year old who does not seem to grasp the concept of this disease and how she might look the same but she is not capable of making decisions, etc.).  i have notes from 2 of her doctors right now (neuro and endocrinology) that state she is not capable of making decisions for herself and should move to assisted living. she refuses to accept this, and keeps telling me it's 10 years too soon to move. obviously, i will take her doctors' advice over her own opinion but i just don't know how to execute the move. if you talk to her she says that she's  'completely fine ' and has no health issues (she has multiple issues in addition to alzheimer's).  i guess i'm just looking to learn from you all how you executed a move for your loved one. i've toured 7 or so of memory care communities and the representatives always tell me that nobody wants to move or thinks it's their time to move. how did you do it and how did your loved one respond? i personally think that social engagement will be really good for her, but am struggling knowing she will be very upset, and that i will likely have to separate her from her dog, who she loves very much. thanks for reading and thanks for your help."
+  },
+  {
+    "qas": [
+      {
+        "question": "has anyone had simliar experiences?",
+        "is_impossible": false,
+        "id": "9",
+        "answers": [
+          {
+            "text": "he's in his early sixties and i'm thinking he has early onset alzheimers or dementia.",
+            "answer_start": 96
+          },
+          {
+            "text": "he refuses to see a doctor about it.",
+            "answer_start": 182
+          }
+        ]
+      }
+    ],
+    "context": "so my dad's memory has gone to shit. he is always repeating himself and never remembers things. he's in his early sixties and i'm thinking he has early onset alzheimers or dementia. he refuses to see a doctor about it. has anyone had simliar experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "does anyone have any ideas how i can help?",
+        "is_impossible": false,
+        "id": "10",
+        "answers": [
+          {
+            "text": "we lost my grandma to alzheimers last december and now my grandpa is progressing into mid/late stage alzheimers as well.",
+            "answer_start": 13
+          },
+          {
+            "text": "i live on the other side of the country so just visiting more isnt currently an option.",
+            "answer_start": 715
+          }
+        ]
+      }
+    ],
+    "context": "hi everyone. we lost my grandma to alzheimers last december and now my grandpa is progressing into mid/late stage alzheimers as well. he is extremely bored all the time and i want to find things for him to do. right now he pretty much just watches tv. the problem is we have gotten him word searches (his favorite pre-alz), easy puzzles, simple games, etc but he refuses to use them.  he is very stubborn and still lucid a lot of the time, so things that are too childish like busy boxes offend him. he is also still struggling a lot with not being able to drive.  i feel helpless because every time we talk he brings up the fact that he is so bored and cant do anything. does anyone have any ideas how i can help? i live on the other side of the country so just visiting more isnt currently an option.  (background info: he is about to be 87,  formerly a mechanic and handy man, mid-late stage alz, and lives in a small nursing home with round the clock care.)"
+  },
+  {
+    "qas": [
+      {
+        "question": "is it possible to ask her to identify something on she and i would know for her to understand who i am?",
+        "is_impossible": false,
+        "id": "11",
+        "answers": [
+          {
+            "text": "needing help with my wife(69) who was diagnose last january with ad.",
+            "answer_start": 0
+          },
+          {
+            "text": "since the end of october she has had difficulty recognizing me as her husband and confusing me with someone with the same name and very similar (in her mind).",
+            "answer_start": 69
+          },
+          {
+            "text": "it does seem to come and go but often when she doesn't recognize me she wonders where i am and where i've been.",
+            "answer_start": 228
+          },
+          {
+            "text": "she also thinks she's not living in her home where we've lived for almost 35 years.",
+            "answer_start": 442
+          },
+          {
+            "text": "very frustrating and any help or advice is appreciated.",
+            "answer_start": 679
+          },
+          {
+            "text": "thanks in advance.",
+            "answer_start": 735
+          }
+        ]
+      }
+    ],
+    "context": "needing help with my wife(69) who was diagnose last january with ad. since the end of october she has had difficulty recognizing me as her husband and confusing me with someone with the same name and very similar (in her mind). it does seem to come and go but often when she doesn't recognize me she wonders where i am and where i've been. yesterday it kind of came to a head when she confronted me (she knew who i was) with where i've been. she also thinks she's not living in her home where we've lived for almost 35 years. how have some of you handled this type of thing? is it possible to ask her to identify something on she and i would know for her to understand who i am? very frustrating and any help or advice is appreciated. thanks in advance."
+  },
+  {
+    "qas": [
+      {
+        "question": "hi all, what do you guys do to keep an alzheimers person busy/interested/occupied?",
+        "is_impossible": false,
+        "id": "12",
+        "answers": [
+          {
+            "text": "i know my family member does not seems phased my tv or music anymore.",
+            "answer_start": 83
+          },
+          {
+            "text": "i wish there was something i could give her to play with.",
+            "answer_start": 229
+          }
+        ]
+      }
+    ],
+    "context": "hi all, what do you guys do to keep an alzheimers person busy/interested/occupied? i know my family member does not seems phased my tv or music anymore. also a lot of things you give her she wants to eat. i try to talk with her. i wish there was something i could give her to play with. i'm not sure if i am describing this best but any idears would be great."
+  },
+  {
+    "qas": [
+      {
+        "question": "what worked well?",
+        "is_impossible": false,
+        "id": "13",
+        "answers": [
+          {
+            "text": "our specific details are below, but tl,dr: i would love to hear from others about ways that youve gotten your stubborn loved ones to accept in-home & companion care services.",
+            "answer_start": 0
+          },
+          {
+            "text": "shes still highly mobile and thats our biggest concern.",
+            "answer_start": 335
+          },
+          {
+            "text": "she has gotten lost on walks, lost her keys on walks, got in a car with strangers that stopped (and asked her to buy them groceries), and neighbors told us they witnessed her nearly cause an accident jay-walking across the busy road a block from her house.",
+            "answer_start": 391
+          },
+          {
+            "text": "my brother lives nearby, but they have three young kids, his wife is in school, and hes got a demanding job  they help out as much as they can, but coming by daily to go on long walks simply isnt an option.",
+            "answer_start": 649
+          },
+          {
+            "text": "we want to get her companion care to accompany her on walks and errands.",
+            "answer_start": 856
+          },
+          {
+            "text": "as rapidly as we can, we want to also add homemaker care: she needs help/supervision in the kitchen, her never-stellar housekeeping skills are vastly diminished, and shes quit doing laundry because she doesnt want to waste water.",
+            "answer_start": 929
+          },
+          {
+            "text": "she has so far been very resistant to outside help.",
+            "answer_start": 1336
+          },
+          {
+            "text": "she only uses him for one ride a week and the rest of the time she expects someone to offer to pick her up, shell sometimes ask for a ride, or she just wont go.",
+            "answer_start": 1545
+          },
+          {
+            "text": "she rejects any assistance that feels outside of family or church  the church folks really only give her rides to church activities.",
+            "answer_start": 1706
+          },
+          {
+            "text": "we have so far erred on the side of trying to respect her desire for independence even though thats resulted in a lot of wasted time and money on services shes rejected.",
+            "answer_start": 1839
+          },
+          {
+            "text": "suggestions on how to play it?",
+            "answer_start": 2278
+          }
+        ]
+      }
+    ],
+    "context": "our specific details are below, but tl,dr: i would love to hear from others about ways that youve gotten your stubborn loved ones to accept in-home & companion care services. what worked well? what totally failed? what recommendations do you have for getting them to accept the new normal? our mom is entering middle stage alzheimers. shes still highly mobile and thats our biggest concern. she has gotten lost on walks, lost her keys on walks, got in a car with strangers that stopped (and asked her to buy them groceries), and neighbors told us they witnessed her nearly cause an accident jay-walking across the busy road a block from her house.  my brother lives nearby, but they have three young kids, his wife is in school, and hes got a demanding job  they help out as much as they can, but coming by daily to go on long walks simply isnt an option. we want to get her companion care to accompany her on walks and errands. as rapidly as we can, we want to also add homemaker care: she needs help/supervision in the kitchen, her never-stellar housekeeping skills are vastly diminished, and shes quit doing laundry because she doesnt want to waste water. i suspect shell be needing personal care within a year or so  shes showing signs that incontinence is approaching. it is important to get her acclimated as quickly as possible. she has so far been very resistant to outside help. for example, she lost her license a year ago & we arranged for a family friend that shes known for 20yrs, who works as a lyft driver to be her on-call ride. she only uses him for one ride a week and the rest of the time she expects someone to offer to pick her up, shell sometimes ask for a ride, or she just wont go. she rejects any assistance that feels outside of family or church  the church folks really only give her rides to church activities. we have so far erred on the side of trying to respect her desire for independence even though thats resulted in a lot of wasted time and money on services shes rejected. but we are past the point where shes able to make good decisions for herself, so this one isnt optional. we anticipate shell resist this too & were trying to think of ways to help her accept that this is the new normal without resorting to command and control tactics. suggestions on how to play it?"
+  },
+  {
+    "qas": [
+      {
+        "question": "suggestions on how to play it?",
+        "is_impossible": false,
+        "id": "14",
+        "answers": [
+          {
+            "text": "our specific details are below, but tl,dr: i would love to hear from others about ways that youve gotten your stubborn loved ones to accept in-home & companion care services.",
+            "answer_start": 0
+          },
+          {
+            "text": "what worked well?",
+            "answer_start": 175
+          },
+          {
+            "text": "shes still highly mobile and thats our biggest concern.",
+            "answer_start": 335
+          },
+          {
+            "text": "she has gotten lost on walks, lost her keys on walks, got in a car with strangers that stopped (and asked her to buy them groceries), and neighbors told us they witnessed her nearly cause an accident jay-walking across the busy road a block from her house.",
+            "answer_start": 391
+          },
+          {
+            "text": "my brother lives nearby, but they have three young kids, his wife is in school, and hes got a demanding job  they help out as much as they can, but coming by daily to go on long walks simply isnt an option.",
+            "answer_start": 649
+          },
+          {
+            "text": "we want to get her companion care to accompany her on walks and errands.",
+            "answer_start": 856
+          },
+          {
+            "text": "as rapidly as we can, we want to also add homemaker care: she needs help/supervision in the kitchen, her never-stellar housekeeping skills are vastly diminished, and shes quit doing laundry because she doesnt want to waste water.",
+            "answer_start": 929
+          },
+          {
+            "text": "she has so far been very resistant to outside help.",
+            "answer_start": 1336
+          },
+          {
+            "text": "she only uses him for one ride a week and the rest of the time she expects someone to offer to pick her up, shell sometimes ask for a ride, or she just wont go.",
+            "answer_start": 1545
+          },
+          {
+            "text": "she rejects any assistance that feels outside of family or church  the church folks really only give her rides to church activities.",
+            "answer_start": 1706
+          },
+          {
+            "text": "we have so far erred on the side of trying to respect her desire for independence even though thats resulted in a lot of wasted time and money on services shes rejected.",
+            "answer_start": 1839
+          }
+        ]
+      }
+    ],
+    "context": "our specific details are below, but tl,dr: i would love to hear from others about ways that youve gotten your stubborn loved ones to accept in-home & companion care services. what worked well? what totally failed? what recommendations do you have for getting them to accept the new normal? our mom is entering middle stage alzheimers. shes still highly mobile and thats our biggest concern. she has gotten lost on walks, lost her keys on walks, got in a car with strangers that stopped (and asked her to buy them groceries), and neighbors told us they witnessed her nearly cause an accident jay-walking across the busy road a block from her house.  my brother lives nearby, but they have three young kids, his wife is in school, and hes got a demanding job  they help out as much as they can, but coming by daily to go on long walks simply isnt an option. we want to get her companion care to accompany her on walks and errands. as rapidly as we can, we want to also add homemaker care: she needs help/supervision in the kitchen, her never-stellar housekeeping skills are vastly diminished, and shes quit doing laundry because she doesnt want to waste water. i suspect shell be needing personal care within a year or so  shes showing signs that incontinence is approaching. it is important to get her acclimated as quickly as possible. she has so far been very resistant to outside help. for example, she lost her license a year ago & we arranged for a family friend that shes known for 20yrs, who works as a lyft driver to be her on-call ride. she only uses him for one ride a week and the rest of the time she expects someone to offer to pick her up, shell sometimes ask for a ride, or she just wont go. she rejects any assistance that feels outside of family or church  the church folks really only give her rides to church activities. we have so far erred on the side of trying to respect her desire for independence even though thats resulted in a lot of wasted time and money on services shes rejected. but we are past the point where shes able to make good decisions for herself, so this one isnt optional. we anticipate shell resist this too & were trying to think of ways to help her accept that this is the new normal without resorting to command and control tactics. suggestions on how to play it?"
+  },
+  {
+    "qas": [
+      {
+        "question": "could anyone recommend where i should be looking to get someone to visit for half an hour each day around lunchtime to give her some food please?",
+        "is_impossible": false,
+        "id": "15",
+        "answers": [
+          {
+            "answer_start": 0,
+            "text": "mum lives with me, i'm trying my best but i work during the day and she doesn't eat until i get home and make dinner."
+          }
+        ]
+      }
+    ],
+    "context": "mum lives with me, i'm trying my best but i work during the day and she doesn't eat until i get home and make dinner.  recently been diagnosed with alzheimers and apparently we should be eligible for attendance allowance (and possibly other benefits when that's been granted).  could anyone recommend where i should be looking to get someone to visit for half an hour each day around lunchtime to give her some food please?"
+  },
+  {
+    "qas": [
+      {
+        "question": "what does your timeline look like?",
+        "is_impossible": false,
+        "id": "16",
+        "answers": [
+          {
+            "text": "in reading these threads, i always wonder about the timeline of events leading up to a persons diagnosis.",
+            "answer_start": 0
+          },
+          {
+            "text": "2016: my aunt is placed in assisted living with advanced alzheimers in august.",
+            "answer_start": 615
+          },
+          {
+            "text": "shes pulled over by a half dozen cops.",
+            "answer_start": 909
+          },
+          {
+            "text": "2018: i start receiving late notices in the beginning of the year.",
+            "answer_start": 1561
+          },
+          {
+            "text": "shes writing the checks but the written amounts dont match the numerical amounts.",
+            "answer_start": 1628
+          },
+          {
+            "text": "when leaving to go to target shes gone for hours at a time.",
+            "answer_start": 1710
+          },
+          {
+            "text": "target is 2 minutes away.",
+            "answer_start": 1770
+          },
+          {
+            "text": "i ask her to let me know where shes going but she rarely does.",
+            "answer_start": 1911
+          },
+          {
+            "text": "in april we have our first neurologist appointment.",
+            "answer_start": 2149
+          },
+          {
+            "text": "in late august, she gets angry with me for not sharing a personal pizza with her.",
+            "answer_start": 2356
+          },
+          {
+            "text": "this aggression happens a couple times a month.",
+            "answer_start": 2438
+          },
+          {
+            "text": "in december, my aunt passes at 73. mom wont let me help her pick out an outfit; she decides on the same black jeans she always wears and a sweatshirt.",
+            "answer_start": 2487
+          },
+          {
+            "text": "in january 2019, her sense of taste change, and she starts throwing out food i make her unless its sweet or bland.",
+            "answer_start": 2710
+          },
+          {
+            "text": "she refuses to let me take her to get a cut.",
+            "answer_start": 3035
+          },
+          {
+            "text": "thats about it for me.",
+            "answer_start": 3245
+          }
+        ]
+      }
+    ],
+    "context": "in reading these threads, i always wonder about the timeline of events leading up to a persons diagnosis. for instance, my mothers journey would look like this: 2014: father gets leukemia, mom has trouble visiting him in the city. later, my nephew is born and she seems somewhat apathetic. hes born in the city as well, and she gets lost trying to visit. we chalk it up to her being a nervous driver. she is 64.  2015: gets lost going to mcdonalds in the dark... a drive shes made dozens of times before in an area shes lived in for 30 years. we chalk it up to cataracts, which she has removed later in early 2016. 2016: my aunt is placed in assisted living with advanced alzheimers in august. i knew she wasnt quite right, but i had no clue it had gotten so bad because mom had never indicated as much. driving back from the hospital alone, mom ends up on the wrong side of the road and enters an army base. shes pulled over by a half dozen cops. at this point im in denial, but i urge her to get a mental health exam. she gets a referral from the doctor, but between my aunt and life, nothing ever comes of it. 2017: mom continues to slip. shes still independent but she no longer understands how to gas up a car, she refuses to cook, and shes been escorted home several times in the dark from church. i tell her she cant go out at night anymore. in october, she cant remember when her next drs appointment is, so instead of calling, she drives there and ends up lost. the dr drops her off, leaving me to find her car, which she cant remember where she left. 2018: i start receiving late notices in the beginning of the year. shes writing the checks but the written amounts dont match the numerical amounts. when leaving to go to target shes gone for hours at a time. target is 2 minutes away. when questioned about why shes been gone so long, she gets defensive. i have a panic attack every time she leaves. i ask her to let me know where shes going but she rarely does. i force her to go to the drs for another referral, where the dr clearly states that she has dementia. im stunned that he didnt think it was important to tell her family that. in april we have our first neurologist appointment. in june, shes officially diagnosed with alzheimers at the age of 67. in july, my brother and i make the decision that its no longer safe for her to drive. in late august, she gets angry with me for not sharing a personal pizza with her. this aggression happens a couple times a month.  in december, my aunt passes at 73. mom wont let me help her pick out an outfit; she decides on the same black jeans she always wears and a sweatshirt. from this point on, her aggression and paranoia have a marked increase. in january 2019, her sense of taste change, and she starts throwing out food i make her unless its sweet or bland. over the next several months, her behavior worsens, including tantrums and physical aggression. her hygiene begins to suffer, and she aggressively cuts her own hair, leaving both sides patchy but the top long. she refuses to let me take her to get a cut. in may, my brother and i place her in an assisted living community. she still speaks poorly of me, despite not having seen me since june. she turned 69 in december. thats about it for me. what does your timeline look like?"
+  },
+  {
+    "qas": [
+      {
+        "question": "how did all of you go about getting the diagnosis?",
+        "is_impossible": false,
+        "id": "17",
+        "answers": [
+          {
+            "text": "so, my grandmother is possibly showing signs of alzheimers/dementia.",
+            "answer_start": 0
+          },
+          {
+            "text": "my mother has told me about this things, but i had never seen it firsthand.",
+            "answer_start": 618
+          },
+          {
+            "text": "long story short, she is widowed and lives alone and we don't have a clue how to go about getting her help.",
+            "answer_start": 1337
+          },
+          {
+            "text": "she obviously doesn't think she needs it, and i'm at a loss.",
+            "answer_start": 1446
+          },
+          {
+            "text": "my uncle, who lives in another state, thinks we just have to wait for something to actually happen that will force her to get help.",
+            "answer_start": 1588
+          }
+        ]
+      }
+    ],
+    "context": "so, my grandmother is possibly showing signs of alzheimers/dementia.  for quite a while, probably a year at least, she has made small comments about people doing things around her home. about 6 months ago, she got into an argument with my mother, saying that people were coming and going from her home, and said that my stepdad was doing weird things in her home and that she didn't want him there any more (he is never there and is not doing any of the things she is saying).  about a month ago, that happened again, where she was gone for awhile and when my mom brought her home, she thought someone had been there. my mother has told me about this things, but i had never seen it firsthand.  last week, grandma had a surgery, so yesterday i stayed with her for the day.  everything was fine all day, she seemed to be herself.  at some point in the evening, all of the sudden she was at her front door, then basically running from window to window looking outside.  when she finally sat back down, she got upset and told me that her outside light had blinked and everyone thinks she's crazy, but she's not crazy, and someone is messing with her electrical systems and she doesn't know who it is but is she could catch them she'd kill them.  earlier in the day, she had been telling me how mush she loves her house and will never move. long story short, she is widowed and lives alone and we don't have a clue how to go about getting her help.  she obviously doesn't think she needs it, and i'm at a loss.  my mother is the one who is with her the most and is dealing with it the most.  my uncle, who lives in another state, thinks we just have to wait for something to actually happen that will force her to get help.   i'm going to look into support groups, and maybe even counseling for myself.  how did all of you go about getting the diagnosis?"
+  },
+  {
+    "qas": [
+      {
+        "question": "either way, are there any locks that you'd recommend?",
+        "is_impossible": false,
+        "id": "18",
+        "answers": [
+          {
+            "text": "i'm just at a complete loss right now.",
+            "answer_start": 0
+          },
+          {
+            "text": "i'm not making enough money for all of this, and the next few weeks are now probably going to be rice & beans to stretch it out.",
+            "answer_start": 190
+          },
+          {
+            "text": "my partner is trying, but it's been like feeding a black hole, she sneaks down in the middle of the night and cleans the place out.",
+            "answer_start": 319
+          },
+          {
+            "text": "i'm just at a complete loss right now.",
+            "answer_start": 0
+          },
+          {
+            "text": "i'm not making enough money for all of this, and the next few weeks are probably going to be rice & beans to stretch it out.",
+            "answer_start": 642
+          },
+          {
+            "text": "we've decided to lock all of the cupboards and the fridge, leaving her snack cabinet open with her food for the day.",
+            "answer_start": 822
+          }
+        ]
+      }
+    ],
+    "context": "i'm just at a complete loss right now. my mil ate a week's worth of groceries in 2 days. she then proceeded to eat my personal groceries as well, so well over $100 in less than half a week. i'm not making enough money for all of this, and the next few weeks are now probably going to be rice & beans to stretch it out. my partner is trying, but it's been like feeding a black hole, she sneaks down in the middle of the night and cleans the place out.  i'm just at a complete loss right now. my mil ate a week's worth of groceries in 2 days. she then proceeded to eat my personal groceries as well, so well over $100 in less than half a week. i'm not making enough money for all of this, and the next few weeks are probably going to be rice & beans to stretch it out.  either way, are there any locks that you'd recommend? we've decided to lock all of the cupboards and the fridge, leaving her snack cabinet open with her food for the day."
+  },
+  {
+    "qas": [
+      {
+        "question": "seroquel could make him drowsy - if hes out walking and falls, his condition would be worse...  im inclined to not get this drug for him, and my so and mom (his ex wife) agree... thoughts?",
+        "is_impossible": false,
+        "id": "19",
+        "answers": [
+          {
+            "text": "maybe in six months if all goes well.",
+            "answer_start": 827
+          },
+          {
+            "text": "i see him once every week or so, he has psws.",
+            "answer_start": 865
+          },
+          {
+            "text": "(which he already has.)",
+            "answer_start": 1184
+          }
+        ]
+      }
+    ],
+    "context": "my dad has untreated bipolar disorder and ocd, as well as mild/moderate dementia. most of the bipolar stuff has mellowed quite a bit. apparently that is typical.  he does still feel restless and likes to walk (not wander - he does have a goal,  he just gets lost because his spatial abilities worsened after a car accident some years ago). but the hypomania of before isnt really present. he does live on his own and gets lonely, and is depressed as a result.  however, when hes around people, hes in a good mood. he just wants that all the time, thats the problem. hes too willful to comply with a schedule for a day program, hed rather go where he wants to go (im in touch with him through the day to help him back if he gets lost).  i live 1-1.5 hours away, am trying to move closer to him, that isnt happening immediately. maybe in six months if all goes well. i see him once every week or so, he has psws.  he just saw a psychiatrist who wants to give him seroquel for the depression. because an ssri could trigger mania, ok fair enough.  except  i just read that seniors with dementia should specifically not be given seroquel? theres a risk of death because of heart problems? (which he already has.)  he was given haldol, another antipsychotic, in hospital recently -  and that was a nightmare, had tons of hallucinations and delusions, which is unusual for him.  seroquel could make him drowsy - if hes out walking and falls, his condition would be worse...  im inclined to not get this drug for him, and my so and mom (his ex wife) agree... thoughts?"
+  },
+  {
+    "qas": [
+      {
+        "question": "how do i get over this?",
+        "is_impossible": false,
+        "id": "20",
+        "answers": [
+          {
+            "text": "she's been in there since april of this year and i've only gone to see her 3 or 4 times.",
+            "answer_start": 145
+          },
+          {
+            "text": "it's so selfish, but it's so hard to make myself go see her.",
+            "answer_start": 234
+          },
+          {
+            "text": "not to mention she isn't the grandma i grew up with anymore.",
+            "answer_start": 404
+          },
+          {
+            "text": "i have so many amazing childhood memories with her and now she's just a shell of what i remember.",
+            "answer_start": 584
+          },
+          {
+            "text": "i feel so selfish and sad and i know that once she passes i'll regret not seeing her more.",
+            "answer_start": 706
+          },
+          {
+            "text": "any advice is welcome.",
+            "answer_start": 1011
+          }
+        ]
+      }
+    ],
+    "context": "my family finally got my grandma, who is suffering from alzheimer's, into a care home after she fell and broke her hip while she was home alone. she's been in there since april of this year and i've only gone to see her 3 or 4 times. it's so selfish, but it's so hard to make myself go see her. i hate seeing here in a home that isn't the home i grew up in while she's surrounded by stranger and nurses. not to mention she isn't the grandma i grew up with anymore. my whole childhood i wanted nothing more than to go over to my grandma's every single weekend, she was my best friend. i have so many amazing childhood memories with her and now she's just a shell of what i remember. how do i get over this? i feel so selfish and sad and i know that once she passes i'll regret not seeing her more. like i said, i just can't bring myself to go visit her. it's so depressing seeing her in the state that she's in right now, and i can't even talk with her privately because she's surrounded by the other residents. any advice is welcome."
+  },
+  {
+    "qas": [
+      {
+        "question": "also at mid50s are there any treatments that could help?",
+        "is_impossible": false,
+        "id": "21",
+        "answers": [
+          {
+            "text": "i have always believed it was a simple age thing - we all forget our keys, our cell phones etc.",
+            "answer_start": 91
+          },
+          {
+            "text": "my wife acted surprised and said no way!",
+            "answer_start": 407
+          }
+        ]
+      }
+    ],
+    "context": "my kids have pointed it out for a couple years and we often laugh about her forgetfulness. i have always believed it was a simple age thing - we all forget our keys, our cell phones etc.  or what we went down stairs for... this weekend for the first time i felt embarrassed for-my wife. a family friend that weve known for 30 years, who we always socialize with mentioned something about being left handed. my wife acted surprised and said no way! im left handed too!  i mean, we all know whos left handed in the family - it shouldnt be a surprise.  so the question becomes when does forgetfulness become a serious issue that needs medical attention. also at mid50s are there any treatments that could help?"
+  },
+  {
+    "qas": [
+      {
+        "question": "how did you find out your loved one had dementia/alzheimers?",
+        "is_impossible": false,
+        "id": "22",
+        "answers": [
+          {
+            "text": "what were the early signs?",
+            "answer_start": 64
+          },
+          {
+            "text": "you?",
+            "answer_start": 113
+          }
+        ]
+      }
+    ],
+    "context": "how did you find out your loved one had dementia/alzheimers?    what were the early signs?    how old were they? you?"
+  },
+  {
+    "qas": [
+      {
+        "question": "what were the early signs?",
+        "is_impossible": false,
+        "id": "23",
+        "answers": [
+          {
+            "text": "how did you find out your loved one had dementia/alzheimers?",
+            "answer_start": 0
+          },
+          {
+            "text": "you?",
+            "answer_start": 113
+          }
+        ]
+      }
+    ],
+    "context": "how did you find out your loved one had dementia/alzheimers?    what were the early signs?    how old were they? you?"
+  },
+  {
+    "qas": [
+      {
+        "question": "you?",
+        "is_impossible": false,
+        "id": "24",
+        "answers": [
+          {
+            "text": "how did you find out your loved one had dementia/alzheimers?",
+            "answer_start": 0
+          },
+          {
+            "text": "what were the early signs?",
+            "answer_start": 64
+          }
+        ]
+      }
+    ],
+    "context": "how did you find out your loved one had dementia/alzheimers?    what were the early signs?    how old were they? you?"
+  },
+  {
+    "qas": [
+      {
+        "question": "in ca, you can be required by law to cover your parents financial and health care needs but how can i be required to go bankrupt to take care of my dad?",
+        "is_impossible": false,
+        "id": "25",
+        "answers": [
+          {
+            "text": "i will be relocating for work, selling my house, and moving away against his wishes.",
+            "answer_start": 161
+          },
+          {
+            "text": "my sister had originally agreed to take on his care on the east coast (im in ca) since theyre better off financially, have dual income, 2 teenager children, etc.",
+            "answer_start": 246
+          },
+          {
+            "text": "im 30 and single working 60+ hours a week and barely scraping by!",
+            "answer_start": 415
+          },
+          {
+            "text": "i have no social life, no significant other and definitely no time to find one.",
+            "answer_start": 481
+          },
+          {
+            "text": "i feel so stranded and out of options.",
+            "answer_start": 919
+          },
+          {
+            "text": "my strenuous relationship with my sister is out the window and im frantic to try and find any and all resources as we move forward because, no matter what, im moving and wont be able to afford the time or financial burden to take proper care of him.",
+            "answer_start": 958
+          }
+        ]
+      }
+    ],
+    "context": "my father hasnt been diagnosed with alzheimers yet, only dementia. he lives with me and i take care of him financially and everything else on my single income.  i will be relocating for work, selling my house, and moving away against his wishes. my sister had originally agreed to take on his care on the east coast (im in ca) since theyre better off financially, have dual income, 2 teenager children, etc. great! im 30 and single working 60+ hours a week and barely scraping by! i have no social life, no significant other and definitely no time to find one. and who would want to start a relationship with someone in this situation?  she just spent a week with him and suddenly says she cant do it. she needs to take care of her marriage and her family and cant contribute financially anything.  he gets $1,100 from social security and thats it. he gets medicare and medical-cal but those wont take care of his ltc. i feel so stranded and out of options. my strenuous relationship with my sister is out the window and im frantic to try and find any and all resources as we move forward because, no matter what, im moving and wont be able to afford the time or financial burden to take proper care of him.  in ca, you can be required by law to cover your parents financial and health care needs but how can i be required to go bankrupt to take care of my dad?"
+  },
+  {
+    "qas": [
+      {
+        "question": "does anyone have suggestions for a simple toy or activity my family could give him for the holidays?",
+        "is_impossible": false,
+        "id": "26",
+        "answers": [
+          {
+            "text": "hes still very aware of/embarrassed by his forgetfulness and challenges so i want to find something that isnt too obviously designed for children, like some of the alz toys ive seen.",
+            "answer_start": 200
+          },
+          {
+            "text": "we have an alexa system for him to listen to music and podcasts, but hes had a lot of nervous energy lately and needs something to do with his hands.",
+            "answer_start": 383
+          },
+          {
+            "text": "thanks in advance",
+            "answer_start": 533
+          }
+        ]
+      }
+    ],
+    "context": "hi; my dad has early onset alz (diagnosed at 56, 5 years ago) and is still in the moderate stages. does anyone have suggestions for a simple toy or activity my family could give him for the holidays? hes still very aware of/embarrassed by his forgetfulness and challenges so i want to find something that isnt too obviously designed for children, like some of the alz toys ive seen. we have an alexa system for him to listen to music and podcasts, but hes had a lot of nervous energy lately and needs something to do with his hands. thanks in advance"
+  },
+  {
+    "qas": [
+      {
+        "question": "what are my options?",
+        "is_impossible": false,
+        "id": "27",
+        "answers": [
+          {
+            "text": "i live about 50 miles away, and can't see him every day.",
+            "answer_start": 239
+          },
+          {
+            "text": "he won't allow me to hire help and doesn't seem interested in moving to an assisted.",
+            "answer_start": 296
+          },
+          {
+            "text": "this is going to sound awful but i don't want to spend any more time with my dad then i have to.",
+            "answer_start": 381
+          },
+          {
+            "text": "what happens to people who do not have family?",
+            "answer_start": 895
+          }
+        ]
+      }
+    ],
+    "context": "i took my dad to a memory specialist last week and she thinks he has moderate alzheimer's disease. i knew he was having memory problems but since he lost his wife (my mom) a 7 weeks ago and has been doing a lot worse. what are my options? i live about 50 miles away, and can't see him every day. he won't allow me to hire help and doesn't seem interested in moving to an assisted. this is going to sound awful but i don't want to spend any more time with my dad then i have to. he was abusive to me when i lived with him and has shown very little interest in me my entire life.  i am very uncomfortable when we are together. i take medication for anxiety and literally tremble after every visit and it is causing my ibs which had been gone for years to return. i just want to stay home and mourn my mom in peace. my dad has a lot of money is there a service he or i can pay to take care of him. what happens to people who do not have family? i know this sounds bad maybe i just need to vent a little my father has called me more in the last 7 weeks than in the last 25 years. it just doesn't seem fair that he can treat me like crap my entire life and now that he is alone i am suppose to take care of him. i do love him and want him safe and as happy as possible but i don't like him and when he was in his right mind he sure didn't seem to like me."
+  },
+  {
+    "qas": [
+      {
+        "question": "what happens to people who do not have family?",
+        "is_impossible": false,
+        "id": "28",
+        "answers": [
+          {
+            "text": "what are my options?",
+            "answer_start": 218
+          },
+          {
+            "text": "i live about 50 miles away, and can't see him every day.",
+            "answer_start": 239
+          },
+          {
+            "text": "he won't allow me to hire help and doesn't seem interested in moving to an assisted.",
+            "answer_start": 296
+          },
+          {
+            "text": "this is going to sound awful but i don't want to spend any more time with my dad then i have to.",
+            "answer_start": 381
+          }
+        ]
+      }
+    ],
+    "context": "i took my dad to a memory specialist last week and she thinks he has moderate alzheimer's disease. i knew he was having memory problems but since he lost his wife (my mom) a 7 weeks ago and has been doing a lot worse. what are my options? i live about 50 miles away, and can't see him every day. he won't allow me to hire help and doesn't seem interested in moving to an assisted. this is going to sound awful but i don't want to spend any more time with my dad then i have to. he was abusive to me when i lived with him and has shown very little interest in me my entire life.  i am very uncomfortable when we are together. i take medication for anxiety and literally tremble after every visit and it is causing my ibs which had been gone for years to return. i just want to stay home and mourn my mom in peace. my dad has a lot of money is there a service he or i can pay to take care of him. what happens to people who do not have family? i know this sounds bad maybe i just need to vent a little my father has called me more in the last 7 weeks than in the last 25 years. it just doesn't seem fair that he can treat me like crap my entire life and now that he is alone i am suppose to take care of him. i do love him and want him safe and as happy as possible but i don't like him and when he was in his right mind he sure didn't seem to like me."
+  },
+  {
+    "qas": [
+      {
+        "question": "anyone else doing nmn for ad?",
+        "is_impossible": false,
+        "id": "29",
+        "answers": [
+          {
+            "text": "a relative has ad.",
+            "answer_start": 0
+          },
+          {
+            "text": "background: nad+ booster cured ad in mice in this study: https://www.pnas.org/content/115/8/e1876 sure he is not a mouse, but he shares 92% of dna with a mouse and i figured as the disease progression is pretty bad so he doesnt have too much to lose by trying something that has not passed human trials yet.",
+            "answer_start": 120
+          },
+          {
+            "text": "nmn seems to be the most potent/least bad nad+ precursor and high dose resveratrol seems to improve nad+ boosting effects.",
+            "answer_start": 428
+          },
+          {
+            "text": "(will not post any links, dont want to make any money on this, but be aware that the supplement industry is full of products with questionable contents).",
+            "answer_start": 660
+          },
+          {
+            "text": "3 weeks later i get a report back.",
+            "answer_start": 890
+          },
+          {
+            "text": "after about 2 weeks he noticed greatly increased energy levels and mental clarity, memory seems to be improved.",
+            "answer_start": 925
+          }
+        ]
+      }
+    ],
+    "context": "a relative has ad. me being a biohacker and really inspired by david sinclairs book, ordered some nmn for him to test.  background: nad+ booster cured ad in mice in this study: https://www.pnas.org/content/115/8/e1876 sure he is not a mouse, but he shares 92% of dna with a mouse and i figured as the disease progression is pretty bad so he doesnt have too much to lose by trying something that has not passed human trials yet. nmn seems to be the most potent/least bad nad+ precursor and high dose resveratrol seems to improve nad+ boosting effects. put him on 0.5g nmn + 0.5g resveratrol per day orally, nmn in pill and resveratrol mixed in turkish yoghurt. (will not post any links, dont want to make any money on this, but be aware that the supplement industry is full of products with questionable contents).  no other major lifestyle changes, its hard to teach old dogs new tricks.   3 weeks later i get a report back. after about 2 weeks he noticed greatly increased energy levels and mental clarity, memory seems to be improved. 4 weeks later at the doctor he passed the memory and numbers test, not sure if this was better than before, but he seemed proud of this. partner reports noticing much improved memory, he still struggles to remember events from the months before, but new things seem to stick better. just wanted to share this promising result.  anyone else doing nmn for ad?"
+  },
+  {
+    "qas": [
+      {
+        "question": "i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease?",
+        "is_impossible": false,
+        "id": "30",
+        "answers": [
+          {
+            "text": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to.",
+            "answer_start": 0
+          },
+          {
+            "text": "a book recommendation or.. anything?",
+            "answer_start": 649
+          },
+          {
+            "text": "i know that's probably asking a lot, but i feel totally lost and alone here.",
+            "answer_start": 686
+          },
+          {
+            "text": "i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress.",
+            "answer_start": 763
+          },
+          {
+            "text": "she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild.",
+            "answer_start": 990
+          },
+          {
+            "text": "she gets very upset if the topic of alzheimer's is brought up, the same thing with my father.",
+            "answer_start": 1266
+          },
+          {
+            "text": "i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this?",
+            "answer_start": 1360
+          },
+          {
+            "text": "we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more.",
+            "answer_start": 1657
+          },
+          {
+            "text": "any insight is appreciated.",
+            "answer_start": 1893
+          },
+          {
+            "text": "i really don't know what to do.",
+            "answer_start": 1921
+          }
+        ]
+      }
+    ],
+    "context": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to. my mother was diagnosed with alzheimer's about a month ago by her pcp. i went to the appointment with her for support, as we feared she may have alzheimer's already (it took her father several years ago). the doctor put her on some medications, but they ended up not working out for her (they caused a syncopal episode). my mom lives with my father about an hour away from me. i'm 33, married, and an only child. i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease? a book recommendation or.. anything? i know that's probably asking a lot, but i feel totally lost and alone here. i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress. the doctor didn't say if her symptoms were mild, moderate, severe, etc, but it sounds like maybe he should have? she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild. i'm getting worried about her hurting herself in her home, especially after thanksgiving when she nearly burned herself in the kitchen. she gets very upset if the topic of alzheimer's is brought up, the same thing with my father. i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this? for example, my father told me yesterday that my mom had had a couple checks bounce (she's in charge of their finances and that kind of thing never happens). we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more. sorry if this is a bit rambly, i'm just a bit upset and confused after the holiday. any insight is appreciated. i really don't know what to do."
+  },
+  {
+    "qas": [
+      {
+        "question": "a book recommendation or.. anything?",
+        "is_impossible": false,
+        "id": "31",
+        "answers": [
+          {
+            "text": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to.",
+            "answer_start": 0
+          },
+          {
+            "text": "i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease?",
+            "answer_start": 535
+          },
+          {
+            "text": "i know that's probably asking a lot, but i feel totally lost and alone here.",
+            "answer_start": 686
+          },
+          {
+            "text": "i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress.",
+            "answer_start": 763
+          },
+          {
+            "text": "she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild.",
+            "answer_start": 990
+          },
+          {
+            "text": "she gets very upset if the topic of alzheimer's is brought up, the same thing with my father.",
+            "answer_start": 1266
+          },
+          {
+            "text": "i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this?",
+            "answer_start": 1360
+          },
+          {
+            "text": "we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more.",
+            "answer_start": 1657
+          },
+          {
+            "text": "any insight is appreciated.",
+            "answer_start": 1893
+          },
+          {
+            "text": "i really don't know what to do.",
+            "answer_start": 1921
+          }
+        ]
+      }
+    ],
+    "context": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to. my mother was diagnosed with alzheimer's about a month ago by her pcp. i went to the appointment with her for support, as we feared she may have alzheimer's already (it took her father several years ago). the doctor put her on some medications, but they ended up not working out for her (they caused a syncopal episode). my mom lives with my father about an hour away from me. i'm 33, married, and an only child. i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease? a book recommendation or.. anything? i know that's probably asking a lot, but i feel totally lost and alone here. i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress. the doctor didn't say if her symptoms were mild, moderate, severe, etc, but it sounds like maybe he should have? she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild. i'm getting worried about her hurting herself in her home, especially after thanksgiving when she nearly burned herself in the kitchen. she gets very upset if the topic of alzheimer's is brought up, the same thing with my father. i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this? for example, my father told me yesterday that my mom had had a couple checks bounce (she's in charge of their finances and that kind of thing never happens). we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more. sorry if this is a bit rambly, i'm just a bit upset and confused after the holiday. any insight is appreciated. i really don't know what to do."
+  },
+  {
+    "qas": [
+      {
+        "question": "i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this?",
+        "is_impossible": false,
+        "id": "32",
+        "answers": [
+          {
+            "text": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to.",
+            "answer_start": 0
+          },
+          {
+            "text": "i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease?",
+            "answer_start": 535
+          },
+          {
+            "text": "a book recommendation or.. anything?",
+            "answer_start": 649
+          },
+          {
+            "text": "i know that's probably asking a lot, but i feel totally lost and alone here.",
+            "answer_start": 686
+          },
+          {
+            "text": "i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress.",
+            "answer_start": 763
+          },
+          {
+            "text": "she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild.",
+            "answer_start": 990
+          },
+          {
+            "text": "she gets very upset if the topic of alzheimer's is brought up, the same thing with my father.",
+            "answer_start": 1266
+          },
+          {
+            "text": "we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more.",
+            "answer_start": 1657
+          },
+          {
+            "text": "any insight is appreciated.",
+            "answer_start": 1893
+          },
+          {
+            "text": "i really don't know what to do.",
+            "answer_start": 1921
+          }
+        ]
+      }
+    ],
+    "context": "hey - i'm not really sure what i'm doing, but i need some help and am not really sure where to go or who to reach out to. my mother was diagnosed with alzheimer's about a month ago by her pcp. i went to the appointment with her for support, as we feared she may have alzheimer's already (it took her father several years ago). the doctor put her on some medications, but they ended up not working out for her (they caused a syncopal episode). my mom lives with my father about an hour away from me. i'm 33, married, and an only child. i guess... does anyone have resources or some kind of guidebook on how to deal with a parent having this disease? a book recommendation or.. anything? i know that's probably asking a lot, but i feel totally lost and alone here. i don't know when symptoms require intervention, what to look out for, and what steps to take as things progress. the doctor didn't say if her symptoms were mild, moderate, severe, etc, but it sounds like maybe he should have? she seems coherent most of the time, but just does or says things that don't make sense now and then, so i'm hoping her case is still mild. i'm getting worried about her hurting herself in her home, especially after thanksgiving when she nearly burned herself in the kitchen. she gets very upset if the topic of alzheimer's is brought up, the same thing with my father. i think they want to continue on like nothing is going on, but i feel we should be taking a more proactive approach on how to handle this? for example, my father told me yesterday that my mom had had a couple checks bounce (she's in charge of their finances and that kind of thing never happens). we know something needs to be done, but are just not sure what, and are trying to be very delicate with anything we do or say as to not upset her more. sorry if this is a bit rambly, i'm just a bit upset and confused after the holiday. any insight is appreciated. i really don't know what to do."
+  },
+  {
+    "qas": [
+      {
+        "question": "is there anything that needs to be done prior to getting someone placed in a nursing home or is it just a when you need it you go right in and they get you set up?",
+        "is_impossible": false,
+        "id": "33",
+        "answers": [
+          {
+            "text": "my stepfather has had a diagnosis for moving in on 15 years now and has a marked decline over the last year.",
+            "answer_start": 0
+          },
+          {
+            "text": "he is recently starting to speak in gibberish occasionally and has had caretakers coming in while mother mother is at work since last spring.",
+            "answer_start": 109
+          },
+          {
+            "text": "there is only one option within an hour of where my parents live so they won't need to make any decisions about where, it's just more of a how, and how to finance thing.",
+            "answer_start": 666
+          }
+        ]
+      }
+    ],
+    "context": "my stepfather has had a diagnosis for moving in on 15 years now and has a marked decline over the last year. he is recently starting to speak in gibberish occasionally and has had caretakers coming in while mother mother is at work since last spring.  mother mother tends to live in a bit of denial and thinks that she still has a while to go before he will need a nursing home, i think she probably has about 6 months before he really should have more care than she can afford or be able to give him. is there anything that needs to be done prior to getting someone placed in a nursing home or is it just a when you need it you go right in and they get you set up? there is only one option within an hour of where my parents live so they won't need to make any decisions about where, it's just more of a how, and how to finance thing."
+  },
+  {
+    "qas": [
+      {
+        "question": "a live in carer?",
+        "is_impossible": false,
+        "id": "34",
+        "answers": [
+          {
+            "text": "as the alzheimer's progresses my fil will struggle more to look after mil.",
+            "answer_start": 0
+          },
+          {
+            "text": "how do we go about finding one (based in uk)?",
+            "answer_start": 196
+          },
+          {
+            "text": "is there anything else we should look into?",
+            "answer_start": 242
+          }
+        ]
+      }
+    ],
+    "context": "as the alzheimer's progresses my fil will struggle more to look after mil. we don't want to separate them, he wouldn't want to live in a care home anyway. what's the alternative? a live in carer? how do we go about finding one (based in uk)? is there anything else we should look into?"
+  },
+  {
+    "qas": [
+      {
+        "question": "how do we go about finding one (based in uk)?",
+        "is_impossible": false,
+        "id": "35",
+        "answers": [
+          {
+            "text": "as the alzheimer's progresses my fil will struggle more to look after mil.",
+            "answer_start": 0
+          },
+          {
+            "text": "a live in carer?",
+            "answer_start": 179
+          },
+          {
+            "text": "is there anything else we should look into?",
+            "answer_start": 242
+          }
+        ]
+      }
+    ],
+    "context": "as the alzheimer's progresses my fil will struggle more to look after mil. we don't want to separate them, he wouldn't want to live in a care home anyway. what's the alternative? a live in carer? how do we go about finding one (based in uk)? is there anything else we should look into?"
+  },
+  {
+    "qas": [
+      {
+        "question": "is there anything else we should look into?",
+        "is_impossible": false,
+        "id": "36",
+        "answers": [
+          {
+            "text": "as the alzheimer's progresses my fil will struggle more to look after mil.",
+            "answer_start": 0
+          },
+          {
+            "text": "a live in carer?",
+            "answer_start": 179
+          },
+          {
+            "text": "how do we go about finding one (based in uk)?",
+            "answer_start": 196
+          }
+        ]
+      }
+    ],
+    "context": "as the alzheimer's progresses my fil will struggle more to look after mil. we don't want to separate them, he wouldn't want to live in a care home anyway. what's the alternative? a live in carer? how do we go about finding one (based in uk)? is there anything else we should look into?"
+  },
+  {
+    "qas": [
+      {
+        "question": "why is it so hard for me to go see her?",
+        "is_impossible": false,
+        "id": "37",
+        "answers": [
+          {
+            "text": "its been a month or maybe 5 weeks.",
+            "answer_start": 249
+          },
+          {
+            "text": "im such a crappy granddaughter for this.",
+            "answer_start": 284
+          },
+          {
+            "text": "two, i think the second time i was going to visit her, i was promised by older brother that he would take me and his son to see her at 10:30 am.",
+            "answer_start": 326
+          },
+          {
+            "text": "i knocked like a billion times and his wife answered and said you deal with him.",
+            "answer_start": 547
+          },
+          {
+            "text": "why wont my brother see her at all?",
+            "answer_start": 1122
+          }
+        ]
+      }
+    ],
+    "context": "i think i posted a month ago about my grandma (68). my goal was to visit her every saturday from the moment i found out she was in the nursing home. this is a rant/somewhat need advice(?) one, i feel like crap because ive visited a total of 1 time. its been a month or maybe 5 weeks. im such a crappy granddaughter for this.  two, i think the second time i was going to visit her, i was promised by older brother that he would take me and his son to see her at 10:30 am. i drove to his home at 10:30, got there at 10:45 & his car was still there. i knocked like a billion times and his wife answered and said you deal with him. he wasnt awake and when i asked him about it, he said he wasnt going to go. i think i felt crushed at that moment, i kinda lost it and i havent seen him since. now that thanksgiving is coming up, i have to see him, but i want to see my grandma because its a holiday and because i love her, but i want my brother to go with me. im just upset with myself, my brother, and this whole situation. why is it so hard for me to go see her? why am i being such a pos granddaughter and already doing it? why wont my brother see her at all?"
+  },
+  {
+    "qas": [
+      {
+        "question": "why wont my brother see her at all?",
+        "is_impossible": false,
+        "id": "38",
+        "answers": [
+          {
+            "text": "its been a month or maybe 5 weeks.",
+            "answer_start": 249
+          },
+          {
+            "text": "im such a crappy granddaughter for this.",
+            "answer_start": 284
+          },
+          {
+            "text": "two, i think the second time i was going to visit her, i was promised by older brother that he would take me and his son to see her at 10:30 am.",
+            "answer_start": 326
+          },
+          {
+            "text": "i knocked like a billion times and his wife answered and said you deal with him.",
+            "answer_start": 547
+          },
+          {
+            "text": "why is it so hard for me to go see her?",
+            "answer_start": 1020
+          }
+        ]
+      }
+    ],
+    "context": "i think i posted a month ago about my grandma (68). my goal was to visit her every saturday from the moment i found out she was in the nursing home. this is a rant/somewhat need advice(?) one, i feel like crap because ive visited a total of 1 time. its been a month or maybe 5 weeks. im such a crappy granddaughter for this.  two, i think the second time i was going to visit her, i was promised by older brother that he would take me and his son to see her at 10:30 am. i drove to his home at 10:30, got there at 10:45 & his car was still there. i knocked like a billion times and his wife answered and said you deal with him. he wasnt awake and when i asked him about it, he said he wasnt going to go. i think i felt crushed at that moment, i kinda lost it and i havent seen him since. now that thanksgiving is coming up, i have to see him, but i want to see my grandma because its a holiday and because i love her, but i want my brother to go with me. im just upset with myself, my brother, and this whole situation. why is it so hard for me to go see her? why am i being such a pos granddaughter and already doing it? why wont my brother see her at all?"
+  },
+  {
+    "qas": [
+      {
+        "question": "id like to know what are the most effective method for preventing alzheimers progress... i know aerobic exercise, just like walking, is very effective for slowing alzheimers progress, but what else can we do?",
+        "is_impossible": false,
+        "id": "39",
+        "answers": [
+          {
+            "text": "hi!",
+            "answer_start": 0
+          },
+          {
+            "text": "ive read that some people can stay up to 4 years before progressing...",
+            "answer_start": 371
+          }
+        ]
+      }
+    ],
+    "context": "hi! id like to know what are the most effective method for preventing alzheimers progress... i know aerobic exercise, just like walking, is very effective for slowing alzheimers progress, but what else can we do? my mother is in an early stage (between 3 or 4, in a 7-scale), and id like to do everything i can to slow progress... shes been in stage 3-4 for a year, now. ive read that some people can stay up to 4 years before progressing..."
+  },
+  {
+    "qas": [
+      {
+        "question": "how would she be able to support herself when she is no longer able to work?",
+        "is_impossible": false,
+        "id": "40",
+        "answers": [
+          {
+            "text": "my mother has been diagnosed with early onset alzheimer's, and i know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages.",
+            "answer_start": 0
+          },
+          {
+            "text": "she has no retirement or savings, and disability will not let you file and make a livable wage at the same time.",
+            "answer_start": 362
+          },
+          {
+            "text": "what could i do to help her?",
+            "answer_start": 602
+          },
+          {
+            "text": "the internet hasn't given me many options, if there are any.",
+            "answer_start": 631
+          }
+        ]
+      }
+    ],
+    "context": "my mother has been diagnosed with early onset alzheimer's, and i know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages. if you guys don't mind, i'll list some of my questions below (we are in ohio for reference).   how would she be able to support herself when she is no longer able to work? she has no retirement or savings, and disability will not let you file and make a livable wage at the same time.    she didn't recognize me for the first time while visiting. how could i help her from suffering through that scare again?    what could i do to help her? the internet hasn't given me many options, if there are any."
+  },
+  {
+    "qas": [
+      {
+        "question": "what could i do to help her?",
+        "is_impossible": false,
+        "id": "41",
+        "answers": [
+          {
+            "text": "my mother has been diagnosed with early onset alzheimer's, and i know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages.",
+            "answer_start": 0
+          },
+          {
+            "text": "how would she be able to support herself when she is no longer able to work?",
+            "answer_start": 285
+          },
+          {
+            "text": "she has no retirement or savings, and disability will not let you file and make a livable wage at the same time.",
+            "answer_start": 362
+          },
+          {
+            "text": "the internet hasn't given me many options, if there are any.",
+            "answer_start": 631
+          }
+        ]
+      }
+    ],
+    "context": "my mother has been diagnosed with early onset alzheimer's, and i know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages. if you guys don't mind, i'll list some of my questions below (we are in ohio for reference).   how would she be able to support herself when she is no longer able to work? she has no retirement or savings, and disability will not let you file and make a livable wage at the same time.    she didn't recognize me for the first time while visiting. how could i help her from suffering through that scare again?    what could i do to help her? the internet hasn't given me many options, if there are any."
+  },
+  {
+    "qas": [
+      {
+        "question": "are there any options you guys have found that offer any kind of respite care, or other care that would be beneficial?",
+        "is_impossible": false,
+        "id": "42",
+        "answers": [
+          {
+            "text": "her counselor told me to look into respite care,  but if i'm reading this correctly,  medicare only pays for 95% of up to 5 days of respite care,  and only after they qualify for hospice care.",
+            "answer_start": 135
+          },
+          {
+            "text": "we can't afford several hundred dollars a day out of pocket for respite care at a nursing home.",
+            "answer_start": 476
+          },
+          {
+            "text": "my family doesn't really want to help.",
+            "answer_start": 670
+          },
+          {
+            "text": "they've let her come over or taken her out for a couple of hours, i think twice, but maybe three times since the spring of 2018.  i know open enrollment is now.",
+            "answer_start": 709
+          },
+          {
+            "text": "any help or advice would be appreciated.",
+            "answer_start": 1377
+          }
+        ]
+      }
+    ],
+    "context": "i'm my mother's caregiver,  going on the second year now,  and i'm really starting to get burned out. i need a day off or something!   her counselor told me to look into respite care,  but if i'm reading this correctly,  medicare only pays for 95% of up to 5 days of respite care,  and only after they qualify for hospice care.  i don't think my mother is as the point where she's ready for hospice; her health is relatively good considering,  and she still knows who i am.   we can't afford several hundred dollars a day out of pocket for respite care at a nursing home.  i'm trying to look for an adult day care,  but i'm not sure that there even is one in my area.   my family doesn't really want to help. they've let her come over or taken her out for a couple of hours, i think twice, but maybe three times since the spring of 2018.  i know open enrollment is now.  are there any options you guys have found that offer any kind of respite care, or other care that would be beneficial?  i went to look into long-term care insurance until i realized that an alzheimer's diagnosis makes a person ineligible, which seems dumb,  but i guess it makes sense in that they're a business trying to make money.  it just sucks.   is there something obvious that i'm missing?  how do you guys get a break? i don't know that i can go for years and years without ever having a day off.  any help or advice would be appreciated.   thank you"
+  },
+  {
+    "qas": [
+      {
+        "question": "does anyone know how one can get their hands on anti-beta-amyloid drugs that are being used in trials against alzheimer's?",
+        "is_impossible": false,
+        "id": "43",
+        "answers": [
+          {
+            "answer_start": 151,
+            "text": "according to sources like these, taking anti-beta-amyloid drugs at an early age can prevent alzheimers's."
+          }
+        ]
+      }
+    ],
+    "context": "hello all well-read people. does anyone know how one can get their hands on anti-beta-amyloid drugs that are being used in trials against alzheimer's? according to sources like these, taking anti-beta-amyloid drugs at an early age can prevent alzheimers's. i am 29 years old and very interested in lowering my chances of alzheimer's even by single % points. alzheimer's runs in my family."
+  },
+  {
+    "qas": [
+      {
+        "question": "any ideas at all?",
+        "is_impossible": false,
+        "id": "44",
+        "answers": [
+          {
+            "text": "three generations of us cant figure out how to convince my 86 year old great nana (late stage) to take a bath.",
+            "answer_start": 0
+          },
+          {
+            "text": "shes lived with us for months and has yet to take one.",
+            "answer_start": 143
+          },
+          {
+            "text": "shes getting smelly but either cant smell anything or doesnt care or doesnt know that its her.",
+            "answer_start": 198
+          },
+          {
+            "text": "she gets so upset whenever we bring it up.",
+            "answer_start": 293
+          },
+          {
+            "text": "its not like we can force her.",
+            "answer_start": 336
+          }
+        ]
+      }
+    ],
+    "context": "three generations of us cant figure out how to convince my 86 year old great nana (late stage) to take a bath. she needs one in the worse way. shes lived with us for months and has yet to take one. shes getting smelly but either cant smell anything or doesnt care or doesnt know that its her. she gets so upset whenever we bring it up. its not like we can force her. please... how can any of us convince her? any ideas at all?"
+  },
+  {
+    "qas": [
+      {
+        "question": "im interested to hear from those who are ahead of us in this journey - from your experience, how long did you have / or are having with your loved one while they were losing themselves but still with us?",
+        "is_impossible": false,
+        "id": "45",
+        "answers": [
+          {
+            "text": "firstly i want to say that its been comforting reading about everyones experiences knowing that we are not alone alongside our loved ones during this all.",
+            "answer_start": 0
+          },
+          {
+            "text": "from initial research, it seemed the average life expectancy would be 5-10 years.",
+            "answer_start": 409
+          },
+          {
+            "text": "we are now at the point maybe 8 months later where she isnt able to take care of herself (dressing, remembering to eat, completing daily tasks) and as of this week can no longer contain her bowel movements at times.",
+            "answer_start": 492
+          }
+        ]
+      }
+    ],
+    "context": "firstly i want to say that its been comforting reading about everyones experiences knowing that we are not alone alongside our loved ones during this all. earlier this year my mil was diagnosed with early onset at the age of 63. she had been showing some symptoms for a while before (mostly memory, repeating conversations etc) but since her diagnosis it seems to be progressing much quicker than we thought. from initial research, it seemed the average life expectancy would be 5-10 years.  we are now at the point maybe 8 months later where she isnt able to take care of herself (dressing, remembering to eat, completing daily tasks) and as of this week can no longer contain her bowel movements at times.  im interested to hear from those who are ahead of us in this journey - from your experience, how long did you have / or are having with your loved one while they were losing themselves but still with us?  (and i do know every person is different... i guess i just feel that it seems this is going rather quickly and couldnt imagine her losing more of herself just as fast as we have this year.)"
+  },
+  {
+    "qas": [
+      {
+        "question": "what would be the best plan for her?",
+        "is_impossible": false,
+        "id": "46",
+        "answers": [
+          {
+            "answer_start": 52,
+            "text": "i'm wondering about medicare."
+          }
+        ]
+      }
+    ],
+    "context": "i took over for my grandma about a year or two ago. i'm wondering about medicare. she only has four or five prescriptions and the occasional checkup or diagnostic test. what would be the best plan for her?"
+  },
+  {
+    "qas": [
+      {
+        "question": "what can we do?",
+        "is_impossible": false,
+        "id": "47",
+        "answers": [
+          {
+            "answer_start": 209,
+            "text": "24 hour aids is more than triple the cost and not realistic."
+          }
+        ]
+      }
+    ],
+    "context": "my father has become more aggressive as his dementia increases.  he has threatened a number of fellow patients and recently punched one.  the nursing home wants us to pay for 24 hour aides or to to move him.  24 hour aids is more than triple the cost and not realistic.  what can we do?"
+  },
+  {
+    "qas": [
+      {
+        "question": "any opinions on if memantine is the right choice?",
+        "is_impossible": false,
+        "id": "48",
+        "answers": [
+          {
+            "answer_start": 220,
+            "text": "is there something else that might help?"
+          }
+        ]
+      }
+    ],
+    "context": "my grandmother is on memantine. she needs help operating some appliances, forgets people she hasn't seen in many years, forgets how to write her name (things like that). any opinions on if memantine is the right choice? is there something else that might help?"
+  },
+  {
+    "qas": [
+      {
+        "question": "is there something else that might help?",
+        "is_impossible": false,
+        "id": "49",
+        "answers": [
+          {
+            "answer_start": 170,
+            "text": "any opinions on if memantine is the right choice?"
+          }
+        ]
+      }
+    ],
+    "context": "my grandmother is on memantine. she needs help operating some appliances, forgets people she hasn't seen in many years, forgets how to write her name (things like that). any opinions on if memantine is the right choice? is there something else that might help?"
+  },
+  {
+    "qas": [
+      {
+        "question": "and i hate contemplating things like this--like should i go buy a gun now and take lessons just so i have it when the time comes...   but i'm just wondering are there others here who are freaked out about getting this too?",
+        "is_impossible": false,
+        "id": "50",
+        "answers": [
+          {
+            "text": "hi all,  i'm 42 years old with a wife and two kids, smart and college educated, but terrified of getting alzheimer's.",
+            "answer_start": 0
+          },
+          {
+            "text": "and i had just gotten a fitbit and it showed that i only get like 38 minutes of deep sleep a night.",
+            "answer_start": 631
+          },
+          {
+            "text": "it was on the tip of my tongue.",
+            "answer_start": 1956
+          }
+        ]
+      }
+    ],
+    "context": "hi all,  i'm 42 years old with a wife and two kids, smart and college educated, but terrified of getting alzheimer's.  my parents are 70 and don't have any signs, and i don't actually know anyone close to me who has had it, but it's literally the worst thing that could happen to me.  last year after i turned 41, i was talking with my wife and she was incensed that i didn't remember even talking about some topic she said we had talked about a few months prior.  and then i started thinking about how i sometimes miss our exit when we're driving together because i'm not paying attention.  and how i'm always misplacing things.  and i had just gotten a fitbit and it showed that i only get like 38 minutes of deep sleep a night.  and back when our first child was born 10 years earlier, we did the attachment parenting thing and during the week my wife asked me to get up when our daughter cried, which then progressed to me basically rocking her all night long and me getting practically zero sleep for about 7 months, and i'm worried i did permanent damage to my brain... anyway i made an appointment with a doctor for early onset dementia even though i know i sounded crazy.  she gave me a ridiculously simple test which was obviously not designed for early cases, and had an mri run--of course they found my brain was perfectly healthy.  i do everything else i can think of to keep my brain healthy--exercise, my diet is great, fish oil, coq10 etc. except nothing i've tried has improved my deep sleep... so i've had adhd all my life, i was diagnosed as an adult, i probably have some anxiety, and i know that i've always misplaced things or my mind has wandered during conversations... so the rational part of me knows this, but then i'm just always looking for signs that i'm getting worse.  it's like i'm a hypochondriac for alzheimer's.  the other day i was at the gym and a song came on, and i was upset that i couldn't remember who it was by.  it was on the tip of my tongue.  i've heard it many times, and the group is one of my wife's favorites.   i was thinking about it the rest of my workout and on the drive home, and then later that night i finally remembered it--florence and the machine.  but this tip of my tongue episode really bothered me... maybe this is a midlife crisis, but do people grow out of them and get used to the fact that you're getting older? i've also decided that i'm not going to go out with a disease like this.  that means that if i'm ever diagnosed with dementia that i'll probably have a small window of opportunity to take action before i'll be too confused to do anything about it.  and i hate contemplating things like this--like should i go buy a gun now and take lessons just so i have it when the time comes...   but i'm just wondering are there others here who are freaked out about getting this too?  maybe people who know it runs in your family?  how do you deal with that?  the thing is, i may be a hypochondriac now, but the risk keeps going up the older i get.  if i make it to 85, there's a 50% chance that i'd be right...."
+  },
+  {
+    "qas": [
+      {
+        "question": "is this true?",
+        "is_impossible": false,
+        "id": "51",
+        "answers": [
+          {
+            "text": "im on the fence.",
+            "answer_start": 145
+          },
+          {
+            "text": "the language in my dads after visit report says, please do not drive.",
+            "answer_start": 227
+          },
+          {
+            "text": "i have two questions: - i have heard that because he has this diagnosis and recommendation in his medical record, if he got in an accident, they could be sued and lose everything.",
+            "answer_start": 350
+          },
+          {
+            "text": "how do i get a dmv test scheduled?",
+            "answer_start": 599
+          },
+          {
+            "text": "ive called, searched their website, stopped in.",
+            "answer_start": 634
+          },
+          {
+            "text": "no one has any idea what im talking about.",
+            "answer_start": 682
+          },
+          {
+            "text": "i want to schedule him for a drivers test to make sure hes safe.",
+            "answer_start": 725
+          },
+          {
+            "text": "they tell me he isnt due for a test for a few years.",
+            "answer_start": 790
+          },
+          {
+            "text": "(we live in wisconsin)  note: hes willing to take a dmv test.",
+            "answer_start": 843
+          }
+        ]
+      }
+    ],
+    "context": "hello all,  my father was asked by his neurologist to not drive any more this past august. he disagrees with this and feels his driving is fine. im on the fence. he scares me a bit, but ive definitely been with worse drivers.  the language in my dads after visit report says, please do not drive. if youd like a formal drivers test, the dmv is free. i have two questions: - i have heard that because he has this diagnosis and recommendation in his medical record, if he got in an accident, they could be sued and lose everything. is this true? it would be a good argument for him to stop driving.   how do i get a dmv test scheduled? ive called, searched their website, stopped in. no one has any idea what im talking about. i want to schedule him for a drivers test to make sure hes safe. they tell me he isnt due for a test for a few years. (we live in wisconsin)  note: hes willing to take a dmv test. he wants to prove that hes safe."
+  },
+  {
+    "qas": [
+      {
+        "question": "how do i get a dmv test scheduled?",
+        "is_impossible": false,
+        "id": "52",
+        "answers": [
+          {
+            "text": "im on the fence.",
+            "answer_start": 145
+          },
+          {
+            "text": "the language in my dads after visit report says, please do not drive.",
+            "answer_start": 227
+          },
+          {
+            "text": "i have two questions: - i have heard that because he has this diagnosis and recommendation in his medical record, if he got in an accident, they could be sued and lose everything.",
+            "answer_start": 350
+          },
+          {
+            "text": "is this true?",
+            "answer_start": 530
+          },
+          {
+            "text": "ive called, searched their website, stopped in.",
+            "answer_start": 634
+          },
+          {
+            "text": "no one has any idea what im talking about.",
+            "answer_start": 682
+          },
+          {
+            "text": "i want to schedule him for a drivers test to make sure hes safe.",
+            "answer_start": 725
+          },
+          {
+            "text": "they tell me he isnt due for a test for a few years.",
+            "answer_start": 790
+          },
+          {
+            "text": "(we live in wisconsin)  note: hes willing to take a dmv test.",
+            "answer_start": 843
+          }
+        ]
+      }
+    ],
+    "context": "hello all,  my father was asked by his neurologist to not drive any more this past august. he disagrees with this and feels his driving is fine. im on the fence. he scares me a bit, but ive definitely been with worse drivers.  the language in my dads after visit report says, please do not drive. if youd like a formal drivers test, the dmv is free. i have two questions: - i have heard that because he has this diagnosis and recommendation in his medical record, if he got in an accident, they could be sued and lose everything. is this true? it would be a good argument for him to stop driving.   how do i get a dmv test scheduled? ive called, searched their website, stopped in. no one has any idea what im talking about. i want to schedule him for a drivers test to make sure hes safe. they tell me he isnt due for a test for a few years. (we live in wisconsin)  note: hes willing to take a dmv test. he wants to prove that hes safe."
+  },
+  {
+    "qas": [
+      {
+        "question": "any tips, either on getting tangles out or how to go about cutting it?",
+        "is_impossible": false,
+        "id": "53",
+        "answers": [
+          {
+            "text": "my mil went to visit a relative for a few weeks so that partner and i could get respite.",
+            "answer_start": 0
+          },
+          {
+            "text": "i'm worried that this may be bad for her health, i don't want her getting a fungus under there.",
+            "answer_start": 243
+          },
+          {
+            "text": "we tried soaking it with coconut oil last night and combing it, but we couldn't get all of the knots out and she refuses to help.",
+            "answer_start": 339
+          },
+          {
+            "text": "she's adamant that she won't have her hair cut.",
+            "answer_start": 908
+          }
+        ]
+      }
+    ],
+    "context": "my mil went to visit a relative for a few weeks so that partner and i could get respite. unfortunately, her hair never got combed or brushed and is now matted. it's waist length and there are knots all the way up and at the base of her skull. i'm worried that this may be bad for her health, i don't want her getting a fungus under there. we tried soaking it with coconut oil last night and combing it, but we couldn't get all of the knots out and she refuses to help. she got quite agitated, threatened to hit us, and was yelling about it. i can't think of anything else but to cut the knots out, but i think this may mean using clippers on the back of her head. her hair has been her pride and joy for her entire life and i don't want to take this from her, but i don't know what else to do, i think it will only get worse from here.  any tips, either on getting tangles out or how to go about cutting it? she's adamant that she won't have her hair cut."
+  },
+  {
+    "qas": [
+      {
+        "question": "are there any exercises to strengthen her legs or i should just aim to have her walk a little more each day?",
+        "is_impossible": false,
+        "id": "54",
+        "answers": []
+      }
+    ],
+    "context": "my mum, on 8th year of alz, is usually on the bed or wheelchair.she rarely walks and if she does, it requires multiple ppl. are there any exercises to strengthen her legs or i should just aim to have her walk a little more each day?"
+  }
+]

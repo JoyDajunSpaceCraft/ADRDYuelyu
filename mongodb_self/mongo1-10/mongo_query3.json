@@ -1,0 +1,69 @@
+[
+    {
+        
+            "city": "Bacau",
+            "year": "1757",
+            "AverageTemperature": "4.95"
+        },
+    {
+        
+            "city": "Bataysk",
+            "year": "1946",
+            "AverageTemperature": "-5.397"
+        },
+    {
+        
+            "city": "Athens",
+            "year": "1892",
+            "AverageTemperature": "14.577"
+        },
+    {
+        
+            "city": "Angren",
+            "year": "1897",
+            "AverageTemperature": "-1.116"
+        },
+    {
+        
+            "city": "Alanya",
+            "year": "1827",
+            "AverageTemperature": "23.622"
+        },
+    {
+        
+            "city": "Binzhou",
+            "year": "1968",
+            "AverageTemperature": "1.153"
+        },
+    {
+        
+            "city": "Bama",
+            "year": "1958",
+            "AverageTemperature": "32.871"
+        },
+    {
+        
+            "city": "Ballia",
+            "year": "2009",
+            "AverageTemperature": "29.832"
+        },
+    {
+        
+            "city": "Bihar",
+            "year": "1818",
+            "AverageTemperature": "27.675"
+        },
+    {
+        
+            "city": "Angeles",
+            "year": "1980",
+            "AverageTemperature": "26.713"
+        },
+    {
+        
+            "city": "Anyama",
+            "year": "1986",
+            "AverageTemperature": "26.625"
+        }
+    }
+]

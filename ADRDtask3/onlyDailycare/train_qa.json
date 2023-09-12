@@ -1,0 +1,226 @@
+[
+  {
+    "qas": [
+      {
+        "question": "Do I gently remind her she is home?",
+        "is_impossible": false,
+        "id": "0",
+        "answers": [
+          {
+            "answer_start": 330,
+            "text": "She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't)."
+          }
+        ]
+      }
+    ],
+    "context": "my 71 year old mother has been dealing with Alzheimer's for many years. I've been bathing her about a year now. Dad turns off gas and locks doors ( supplying details to give a frame of reference ).She often talks about going home to check on her parents (gone for 20 years) or kids (I'm her youngest at 34 years old) or whatever. She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't).We are managing, but what's best to say to her? When she pleads to me to pick her up and take her home? Most if the time, I can change the topic and she forgets eventually, but sometimes she gets fixated. Do I go pick her up and drive around? Do I gently remind her she is home? Do I just listen? What's best in your experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "Do I just listen?",
+        "is_impossible": false,
+        "id": "1",
+        "answers": [
+          {
+            "answer_start": 330,
+            "text": "She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't)."
+          }
+        ]
+      }
+    ],
+    "context": "my 71 year old mother has been dealing with Alzheimer's for many years. I've been bathing her about a year now. Dad turns off gas and locks doors ( supplying details to give a frame of reference ).She often talks about going home to check on her parents (gone for 20 years) or kids (I'm her youngest at 34 years old) or whatever. She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't).We are managing, but what's best to say to her? When she pleads to me to pick her up and take her home? Most if the time, I can change the topic and she forgets eventually, but sometimes she gets fixated. Do I go pick her up and drive around? Do I gently remind her she is home? Do I just listen? What's best in your experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "What's best in your experiences?",
+        "is_impossible": false,
+        "id": "2",
+        "answers": [
+          {
+            "answer_start": 330,
+            "text": "She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't)."
+          }
+        ]
+      }
+    ],
+    "context": "my 71 year old mother has been dealing with Alzheimer's for many years. I've been bathing her about a year now. Dad turns off gas and locks doors ( supplying details to give a frame of reference ).She often talks about going home to check on her parents (gone for 20 years) or kids (I'm her youngest at 34 years old) or whatever. She yells at my dad to take her home all the while saying their current home  is actually her house her dad got for her (it isn't).We are managing, but what's best to say to her? When she pleads to me to pick her up and take her home? Most if the time, I can change the topic and she forgets eventually, but sometimes she gets fixated. Do I go pick her up and drive around? Do I gently remind her she is home? Do I just listen? What's best in your experiences?"
+  },
+  {
+    "qas": [
+      {
+        "question": "Does anyone have any ideas how I can help?",
+        "is_impossible": false,
+        "id": "3",
+        "answers": [
+          {
+            "answer_start": 394,
+            "text": "He is very stubborn and still lucid a lot of the time, so things that are too u201cchildishu201d like busy boxes offend him. He is also still struggling a lot with not being able to drive. I feel helpless because every time we talk he brings up the fact that he is so bored and canu2019t do anything."
+          }
+        ]
+      }
+    ],
+    "context": "Hi everyone. We lost my grandma to alzheimeru2019s last December and now my grandpa is progressing into mid/late stage alzheimeru2019s as well. He is extremely bored all the time and I want to find things for him to do. Right now he pretty much just watches tv. The problem is we have gotten him word searches (his favorite pre-alz), easy puzzles, simple games, etc but he refuses to use them. He is very stubborn and still lucid a lot of the time, so things that are too u201cchildishu201d like busy boxes offend him. He is also still struggling a lot with not being able to drive. I feel helpless because every time we talk he brings up the fact that he is so bored and canu2019t do anything. Does anyone have any ideas how I can help? I live on the other side of the country so just visiting more isnu2019t currently an option. (Background info: he is about to be 87,  formerly a mechanic and handy man, mid-late stage alz, and lives in a small nursing home with round the clock care.)"
+  },
+  {
+    "qas": [
+      {
+        "question": "Hi all, what do you guys do to keep an alzheimers person busy/interested/occupied?",
+        "is_impossible": false,
+        "id": "4",
+        "answers": [
+          {
+            "answer_start": 144,
+            "text": "He is extremely bored all the time and I want to find things for him to do. Right now he pretty much just watches tv. The problem is we have gotten him word searches (his favorite pre-alz), easy puzzles, simple games, etc but he refuses to use them. He is very stubborn and still lucid a lot of the time, so things that are too u201cchildishu201d like busy boxes offend him. "
+          }
+        ]
+      }
+    ],
+    "context": "Hi everyone. We lost my grandma to alzheimeru2019s last December and now my grandpa is progressing into mid/late stage alzheimeru2019s as well. He is extremely bored all the time and I want to find things for him to do. Right now he pretty much just watches tv. The problem is we have gotten him word searches (his favorite pre-alz), easy puzzles, simple games, etc but he refuses to use them. He is very stubborn and still lucid a lot of the time, so things that are too u201cchildishu201d like busy boxes offend him. He is also still struggling a lot with not being able to drive. I feel helpless because every time we talk he brings up the fact that he is so bored and canu2019t do anything. Does anyone have any ideas how I can help? I live on the other side of the country so just visiting more isnu2019t currently an option. (Background info: he is about to be 87,  formerly a mechanic and handy man, mid-late stage alz, and lives in a small nursing home with round the clock care.)"
+  },
+  {
+    "qas": [
+      {
+        "question": "so what did you get your loved one with AD?",
+        "is_impossible": false,
+        "id": "5",
+        "answers": [
+          {
+            "answer_start": 0,
+            "text": "my mom forgets about gift cards so they never get used, and the place she lives feeds her more than she could ever eat so food is no good. We just spent 2 years liquidating and estate selling most of her stuff so I don't want to get her clutter. I have spent months trying to think of something and I'm having trouble coming up with anything. "
+          }
+        ]
+      }
+    ],
+    "context": "my mom forgets about gift cards so they never get used, and the place she lives feeds her more than she could ever eat so food is no good. We just spent 2 years liquidating and estate selling most of her stuff so I don't want to get her clutter. I have spent months trying to think of something and I'm having trouble coming up with anything. So what did you get your loved one with AD?"
+  },
+  {
+    "qas": [
+      {
+        "question": "Either way, are there any locks that you'd recommend?",
+        "is_impossible": false,
+        "id": "6",
+        "answers": [
+          {
+            "answer_start": 89,
+            "text": "She then proceeded to eat my personal groceries as well, so well over $100 in less than half a week. I'm not making enough money for all of this, and the next few weeks are now probably going to be rice & beans to stretch it out. My partner is trying, but it's been like feeding a black hole, she sneaks down in the middle of the night and cleans the place out."
+          }
+        ]
+      }
+    ],
+    "context": "I'm just at a complete loss right now. My MIL ate a week's worth of groceries in 2 days. She then proceeded to eat my personal groceries as well, so well over $100 in less than half a week. I'm not making enough money for all of this, and the next few weeks are now probably going to be rice & beans to stretch it out. My partner is trying, but it's been like feeding a black hole, she sneaks down in the middle of the night and cleans the place out. I'm just at a complete loss right now. My MIL ate a week's worth of groceries in 2 days. She then proceeded to eat my personal groceries as well, so well over $100 in less than half a week. I'm not making enough money for all of this, and the next few weeks are probably going to be rice & beans to stretch it out. Either way, are there any locks that you'd recommend? We've decided to lock all of the cupboards and the fridge, leaving her snack cabinet open with her food for the day."
+  },
+  {
+    "qas": [
+      {
+        "question": "Does anyone have suggestions for a simple toy or activity my family could give him for the holidays?",
+        "is_impossible": false,
+        "id": "7",
+        "answers": [
+          {
+            "answer_start": 200,
+            "text": "Heu2019s still very aware of/embarrassed by his forgetfulness and challenges so I want to find something that isnu2019t too obviously designed for children, like some of the Alz u201ctoysu201d Iu2019ve seen. "
+          }
+        ]
+      }
+    ],
+    "context": "Hi; my dad has early onset Alz (diagnosed at 56, 5 years ago) and is still in the moderate stages. Does anyone have suggestions for a simple toy or activity my family could give him for the holidays? Heu2019s still very aware of/embarrassed by his forgetfulness and challenges so I want to find something that isnu2019t too obviously designed for children, like some of the Alz u201ctoysu201d Iu2019ve seen. We have an Alexa system for him to listen to music and podcasts, but heu2019s had a lot of nervous energy lately and needs something to do with his hands. Thanks in advance"
+  },
+  {
+    "qas": [
+      {
+        "question": "How would she be able to support herself when she is no longer able to work?",
+        "is_impossible": false,
+        "id": "8",
+        "answers": [
+          {
+            "answer_start": 359,
+            "text": "She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting. "
+          }
+        ]
+      }
+    ],
+    "context": "my mother has been diagnosed with early onset Alzheimer's, and I know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages. If you guys don't mind, I'll list some of my questions below (we are in Ohio for reference).How would she be able to support herself when she is no longer able to work? She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting. How could I help her from suffering through that scare again? What could I do to help her? The internet hasn't given me many options, if there are any."
+  },
+  {
+    "qas": [
+      {
+        "question": "How could I help her from suffering through that scare again?",
+        "is_impossible": false,
+        "id": "9",
+        "answers": [
+          {
+            "answer_start": 359,
+            "text": "She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting. "
+          }
+        ]
+      }
+    ],
+    "context": "my mother has been diagnosed with early onset Alzheimer's, and I know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages. If you guys don't mind, I'll list some of my questions below (we are in Ohio for reference).How would she be able to support herself when she is no longer able to work? She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting. How could I help her from suffering through that scare again? What could I do to help her? The internet hasn't given me many options, if there are any."
+  },
+  {
+    "qas": [
+      {
+        "question": "What could I do to help her?",
+        "is_impossible": false,
+        "id": "10",
+        "answers": [
+          {
+            "answer_start": 359,
+            "text": "She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting."
+          }
+        ]
+      }
+    ],
+    "context": "my mother has been diagnosed with early onset Alzheimer's, and I know a lot about the disease, but nothing about how she is able to support herself while living with it in her later stages. If you guys don't mind, I'll list some of my questions below (we are in Ohio for reference).How would she be able to support herself when she is no longer able to work? She has no retirement or savings, and disability will not let you file and make a livable wage at the same time. She didn't recognize me for the first time while visiting. How could I help her from suffering through that scare again? What could I do to help her? The internet hasn't given me many options, if there are any."
+  },
+  {
+    "qas": [
+      {
+        "question": "Please... how can any of us convince her?",
+        "is_impossible": false,
+        "id": "11",
+        "answers": [
+          {
+            "answer_start": 208,
+            "text": "Sheu2019s getting smelly but either canu2019t smell anything or doesnu2019t care or doesnu2019t know that itu2019s her. She gets SO upset whenever we bring it up. Itu2019s not like we can force her."
+          }
+        ]
+      }
+    ],
+    "context": "three generations of us canu2019t figure out how to convince my 86 year old great nana (late stage) to take a bath. She needs one in the worse way. Sheu2019s lived with us for months and has yet to take one. Sheu2019s getting smelly but either canu2019t smell anything or doesnu2019t care or doesnu2019t know that itu2019s her. She gets SO upset whenever we bring it up. Itu2019s not like we can force her. Please... how can any of us convince her? Any ideas at all?"
+  },
+  {
+    "qas": [
+      {
+        "question": "How do i get a DMV test scheduled?",
+        "is_impossible": false,
+        "id": "12",
+        "answers": [
+          {
+            "answer_start": 0,
+            "text": "Hello all, My father was asked by his neurologist to not drive any more this past August. He disagrees with this and feels his driving is fine."
+          }
+        ]
+      }
+    ],
+    "context": "Hello all, My father was asked by his neurologist to not drive any more this past August. He disagrees with this and feels his driving is fine. Iu2019m on the fence. He scares me a bit, but Iu2019ve definitely been with worse drivers. The language in my dadu2019s after visit report says, u201cPlease do not drive. If youu2019d like a formal drivers test, the DMV is free.u201dI have two questions:- I have heard that because he has this diagnosis and recommendation in his medical record, if he got in an accident, they could be sued and lose everything. Is this true? It would be a good argument for him to stop driving. How do i get a DMV test scheduled? Iu2019ve called, searched their website, stopped in. No one has any idea what Iu2019m talking about. I want to schedule him for a drivers test to make sure heu2019s safe. They tell me he isnu2019t due for a test for a few years. (We live in Wisconsin)Note: heu2019s willing to take a DMV test. He wants to prove that heu2019s safe."
+  },
+  {
+    "qas": [
+      {
+        "question": "Could anyone who has experienced similar suggest anything with a voice command option?",
+        "is_impossible": false,
+        "id": "13",
+        "answers": [
+          {
+            "answer_start": 621,
+            "text": "She comes out and gets angry, throws fits saying how she wants a land line 'you have a land line grandma', how she doesn't understand after we explain it both verbally and in written form. We write extremely legible and simple instructions, that she never follows.After these confrontations my mom is in tears of frustration and sadness. There's more to my grandma's fading world, but right now my focus is on tech."
+          }
+        ]
+      }
+    ],
+    "context": "Basically, my 84 year old grandmother is wearing my mother down. We live in the same house, which is split. My Grandma has a basic apartment to herself as she is still able to manage herself to a degree. Her memory for things has greatly declined, and yesterday she pretty much forgot who her eldest daughter was when my mother (second of 4 siblings) reminded my grandma. Regarding my post. She insists that she continues to have a phone. Demands a cell phone or a landline. We have gone through quite a few of each. A flip phone with basic tech to big buttoned land lines. She cannot grasp how technology works anymore. She comes out and gets angry, throws fits saying how she wants a land line 'you have a land line grandma', how she doesn't understand after we explain it both verbally and in written form. We write extremely legible and simple instructions, that she never follows.After these confrontations my mom is in tears of frustration and sadness. There's more to my grandma's fading world, but right now my focus is on tech. Could anyone who has experienced similar suggest anything with a voice command option? has Alexa or an echo worked, something that requires no pushing of buttons as she has a light touch and claims to press buttons but ends up turning the phone off in the end. Any help would be greatly appreciated."
+  }
+]

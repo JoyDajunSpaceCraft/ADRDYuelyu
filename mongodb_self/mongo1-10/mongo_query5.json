@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "623a81a8e268507b859c3eca",
+    "tempID": "18",
+    "Year": "1745",
+    "Month": "4",
+    "Day": "1",
+    "AverageTemperature": "4.042",
+    "AverageTemperatureUncertainty": "1.138",
+    "City": "Arhus",
+    "Country": "Denmark",
+    "Latitude": "56.1496278",
+    "Longitude": "10.2134046"
+  },
+  {
+    "_id": "623a81a9e268507b859c8e8e",
+    "tempID": "20739",
+    "Year": "1745",
+    "Month": "4",
+    "Day": "1",
+    "AverageTemperature": "4.042",
+    "AverageTemperatureUncertainty": "1.138",
+    "City": "Aalborg",
+    "Country": "Denmark",
+    "Latitude": "57.0462626",
+    "Longitude": "9.9215263"
+  },
+  {
+    "_id": "623a81a8e268507b859c3ec9",
+    "tempID": "17",
+    "Year": "1745",
+    "Month": "3",
+    "Day": "1",
+    "AverageTemperature": "0.129",
+    "AverageTemperatureUncertainty": "1.088",
+    "City": "Arhus",
+    "Country": "Denmark",
+    "Latitude": "56.1496278",
+    "Longitude": "10.2134046"
+  },
+  {
+    "_id": "623a81a9e268507b859c8e8d",
+    "tempID": "20738",
+    "Year": "1745",
+    "Month": "3",
+    "Day": "1",
+    "AverageTemperature": "0.129",
+    "AverageTemperatureUncertainty": "1.088",
+    "City": "Aalborg",
+    "Country": "Denmark",
+    "Latitude": "57.0462626",
+    "Longitude": "9.9215263"
+  }
+]
